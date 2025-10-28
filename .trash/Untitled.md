@@ -5,6 +5,3 @@ sdqkdqlk
 sdqqsd
 <<<<<<< HEAD
 =======
-
-Blabla
->>>>>>> origin/main
