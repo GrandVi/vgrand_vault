@@ -3,6 +3,8 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 ---
 * * *
 
+***Jeu vidé pour U***
+
 **Idées pour Noel/Anniversaire**
 
 - [ ] Bouquins (cf liste de lecture)
@@ -110,12 +112,8 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 * * *
 
 **Après mon installation**
-- [ ] Articles déco (vase, ...)
+- [ ] Vase, plateau
 - [ ] Outils de menuisierie
 - [ ] Outils de bricolage
-- [ ] Théière design
-- [ ] Batterie de cuisine (haut de gamme, style Mauviel, de Buyer ou Le Creuset) : Plutôt inox
+- [ ] Théière
 - [ ] Cocotte en fonte
-- [ ] Grill en fonte 
-- [ ] Poele en fonte (cast iron skillet - Skeppshult)
-- [ ] Coffret d'épices
