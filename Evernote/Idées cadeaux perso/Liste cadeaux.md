@@ -5,8 +5,8 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 
 ***Jeu vidé pour Ulien***
 - Kirby air riders
-- hyrule warriors
 - Metroid Prime 4
+- Hades 2
 **Idées pour Noel/Anniversaire**
 
 - [ ] Bouquins (cf liste de lecture)
