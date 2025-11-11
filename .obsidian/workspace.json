@@ -12,14 +12,10 @@
             "id": "8103b8f83c9cbddc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -71,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "taille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +197,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "dccf678acf0c3c61",
+  "active": "9d6c86bc14d9a837",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Evernote/Boulot/_resources",
+    "Evernote/Boulot/Note sans titre.md",
+    "Evernote/Boulot/Note sans titre.5.md",
+    "Evernote/Boulot/Note sans titre.4.md",
+    "Evernote/Boulot/Note sans titre.3.md",
+    "Evernote/Boulot/Note sans titre.2.md",
+    "Evernote/Boulot/Note sans titre.1.md",
+    "Evernote/Boulot",
+    "Evernote/DIY/_resources",
+    "Evernote/DIY/Recettes produits entretien DIY.md",
+    "Evernote/DIY/Recettes produits beauté DIY.md",
+    "Evernote/DIY/Fit Guide Chris King components.md",
+    "Evernote/DIY",
     "Evernote/Vie quotidienne/Organisation.md",
     "Evernote/Vie quotidienne/Liste vin.md",
     "Evernote/Vie quotidienne/Liste de courses.md",
@@ -217,13 +228,9 @@
     "Evernote/Idées cadeaux perso",
     "Evernote/Films/_resources",
     "Evernote/Films/Film Juju.md",
-    "Evernote/Films",
     "Evernote/Voiture/_resources/Permis.resources/img_20190222_161906.258.jpg",
-    "Evernote/Voiture/_resources/Permis.resources",
-    "Evernote/Voiture/_resources",
     "Evernote/Voiture/Permis.md",
     "Evernote/Voiture/Checklist achat voiture.md",
-    "Evernote/Voiture",
     "Evernote/Documents identité/Carte vitale.md",
     "Evernote/Documents identité/_resources/Carte_vitale.resources/img_20190222_161955.188.jpg",
     "Evernote/Documents identité/Carte identité.md",
@@ -233,18 +240,8 @@
     "Evernote/Romans_Polars_Autres.../Liste de romans.md",
     "Evernote/Livres de sport/Liste livre sport.md",
     "Evernote/Livres de développement personnel/Idées lecture développement personnel.md",
-    "Evernote/Triathlon/Liste outils velo.md",
-    "Evernote/Triathlon/Liste chaussures.md",
-    "Evernote/Triathlon/Conseils vidéos natation.md",
-    "Evernote/Triathlon/Conseils coaching natation.md",
     "Evernote/Sport - Divers/_resources/Checklist_ultra_vélo.resources/embedded.png",
     "Evernote/Sport - Divers/_resources/Checklist_bivouac.resources/embedded.png",
-    "Evernote/Sport - Divers/Idées courses 2024.md",
-    "Evernote/Sport - Divers/Guide des tailles - Sport.md",
-    "Evernote/Sport - Divers/Checklist ultra vélo.md",
-    "Evernote/Sport - Divers/Checklist bivouac.md",
-    "Evernote/Musculation/Notes - Fundamentals principles of Strength Training.md",
-    "Evernote/Musculation/_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources/unknown_filename.png",
-    "Evernote/Calisthenics/Tips & guidelines.md"
+    "Evernote/Musculation/_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources/unknown_filename.png"
   ]
 }
