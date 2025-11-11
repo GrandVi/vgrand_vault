@@ -1,0 +1,121 @@
+---
+source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBfYAcr4uMBbp_IxNWZI8O1VWCCW4
+---
+* * *
+
+**Idées pour Noel/Anniversaire**
+
+- [ ] Bouquins (cf liste de lecture)
+- [ ] Elite prism porte bidon (1 gauche, 1 droit)
+- [ ] Cuissard Albion Cycling + Veste Zoa Insulated + warmer
+- [ ] JDD + Boitier pédalier + Outils démonte boitier pédalier
+- [ ] Cours menuiserie atelier loup blanc
+- [ ] Valves tubeless Muc-off (<https://www.alltricks.fr/F-41493-pieces-roues/P-2020935-valves_tubeless_muc_off_v2_44mm_noir>)
+- [x] Liquide préventif orange seal
+- [x] Kit réparation mèches tubeless
+- [x] Sacoches bikepacking
+- [x] Topeak turbibooster ou Pro Team compressor
+- [ ] Coffret livres Dune (Édition Deluxe Robert Laffon)
+- [x] Coffret clef à douilles + embouts de qualité
+- [x] Pédales VTT (SHIMANO M540 SPD)
+- [x] Chaussures gravel (Quoc/Fizik Terra X5/Fizik Terra Atlas ?
+- [x] Selle SMP Well rails inox
+- [x] Cours de natation
+- [ ] Bouquin Big Blue Book of maintenance
+- [ ] Moule à pain (Emile Henry)
+- [x] Capteur de puissance ?
+- [x] Sacoche pour bike-packing
+- [ ] Livre sur le cyclisme/les sports d'endurance
+- [x] Chaussures running Altra
+- [x] Chaussettes cyclisme
+- [x] Maillot hiver vélo
+- [x] Prolongateurs
+- [x] Pierre à pizza Ooni (https://fr.ooni.com/collections/pizza-stones/products/ooni-stone-baking-board)
+- [ ] Balance Ooni
+- [x] Pneus Bontrager R3 HARD-CASE LITE 25 mm (https://www.alltricks.fr/F-183706-pneus-route/P-870605-pneu\_route\_bontrager\_r3\_hard\_case\_lite\_tubetype\_souple\_noir)
+- [ ] Balance de precision (https://www.meilleurduchef.com/fr/achat/cuisine/ustensile/balance-cuisine/lac-balance-de-precision.html)
+- [x] Fouet cuisine Matfer 30cm (https://www.meilleurduchef.com/fr/achat/cuisine/ustensile/fouet-cuisine/mfr-fouet-fmc.html)
+	- [x] Rond 22cm (https://www.meilleurduchef.com/fr/achat/boulangerie/materiel/banneton/mfr-banneton-osier-rond-entoile-290.htm
+	- [x] Banneton pain ( <https://www.meilleurduchef.com/fr/achat/boulangerie/materiel/banneton/sim-banneton-entoile-long-31.html)>
+	- [x] l)
+	- [x] Ovale 33x11cm (https://www.meilleurduchef.com/fr/achat/boulangerie/materiel/banneton/sim-banneton-entoile-ovale-23.html)
+- [x] Vanille
+	- [x] Extrait liquide (https://www.bourbonnoire.com/collections/nos-selections-de-gousses-de-vanille-bourbon-noire%C2%AE/products/extrait-de-vanille-200-avec-graines-bourbon-noire%C2%AE-bouteille-250-ml)
+	- [x] Gousses (https://www.bourbonnoire.com/collections/nos-selections-de-gousses-de-vanille-bourbon-noire%C2%AE/products/tube-contenant-10-veritable-gousse-de-vanille-noire-gourmet-qualite-premium?variant=37666771665089)
+- [x] Poche a douille (https://www.meilleurduchef.com/fr/achat/patisserie/ustensile/poche-douille/mfr-poche-douilles-matfer-4.html)
+- [x] Douilles (https://www.meilleurduchef.com/fr/achat/patisserie/ustensile/douille-patisserie/mfe-boite-6-douilles-unies.html)
+- [x] Coupe-pate (https://www.meilleurduchef.com/fr/achat/boulangerie/ustensile/coupe-pate/mfr-coupe-pate-matfer-srond.html)
+- [x] Corne (https://www.meilleurduchef.com/fr/achat/patisserie/ustensile/corne/mto-corne-francaise-rigide.html)
+- [ ] Tapis de cuisson (https://www.meilleurduchef.com/fr/achat/patisserie/cuisson/tapis-cuisson-silpat/sil-tapis-cuisson-choux-eclair.html)
+- [x] Plaquettes Agility Finis
+- [x] Chaussettes (https://www.archiduchesse.com/products/semainier-classique-de-ville?variant=40614061441223#description)
+- [x] Chaussettes sport
+- [x] Osprey duro 6
+- [x] Trail Addict Trail Alu 4 Cork
+- [x] Clef dynamométrique (Rose Bikes)
+- [x] Kit outils réparation vélo (Rose Bikes)
+- [x] Casquette de la marque CIELE
+- [x] Pierre affûtage
+- [x] Chuffamix premium
+- [x] Potence control tech cougar aero 90mm ?
+- [ ] Plaque pâtisserie
+- [x] Chaussures Van Rysel
+- [x] Sacs rando
+- [ ] Sac triathlon
+- [x] Spiralizer Magimix
+- [x] Combinaison tri
+- [x] Cours de cuisine en ligne Shira Bio/Pigut
+- [x] Veste vélo
+- [x] Maillot vélo + Cuissard vélo
+- [x] Manchettes vélo Gore
+- [x] Base layer vélo décathlon (hiver + été)
+- [ ] Bocaux Le Parfait
+- [ ] Kit DIY cosmétique (aroma-zone) 
+- [ ] Pots verre crèmes
+- [ ] Outils menuiserie (à détailler)
+- [ ] Bocaux Weck
+- [ ] Rack à épices
+- [x] Blocs de yoga (Liège, peu importe la marque)
+- [x] Pantalon et short molletonés GymShark
+- [ ] Moulin Microplane
+- [ ] Enceinte bluetooth
+- [ ] Gaze pour la cuisson dans les paniers vapeurs
+- [ ] Balance slow coffee (Brewista Smart Scale V2 OU autre Maxicoffee)
+- [ ] Set mugs-bols de Sarah (grès émaillé)
+- [x] Poele fonte (Kickstarter)
+- [ ] Kit fermentation (voir lien favori)
+- [ ] Cercles pâtisserie
+- [ ] Moule à savarin, à donuts, à cannelés, à kougloff, à brioche
+- [ ] Outils menuiserie
+- [ ] Bon d'achat magasin de sport (type Terre de Running, ...)
+- [ ] Stage de yoga
+- [x] ~~Tapis de yoga (Baya)~~
+- [x] ~~Mini trépied photo~~
+- [x] ~~Kuvings Power Fermenter~~
+- [x] ~~Paniers vapeurs bamboo~~ 
+- [x] ~~Tamis~~
+- [x] ~~Ecouteurs bluetooth Jabra active elite 65t~~
+- [x] ~~Carnet rechargeable (Paper Republic)~~
+- [x] ~~Chaussettes Stance~~
+- [x] ~~Veste légère imperméable de running~~
+- [x] ~~Germoir (Lot 3x750 mL avec égouttoir - Eschenfelder)~~
+- [x] ~~Sac de transport trekking voyage extend 80 à 120 Litres Gris Quechua (OU The North Face Base Camp Duffel M Black)~~
+- [x] ~~Gourde isotherme (Hydroflask 532mL ou 620 mL)~~
+- [x] ~~Maniques Homme Picsil Eagle Grips 3H OU Victory Grips Stealth X 3 doigts~~
+- [x] ~~Anneaux de gymnastique (FEMOR FS018 Anneaux Gymnastique en Bois Réglable Exercice Fitness Suspension Training Anneaux de Bouleau 32mm + 2\* bandes en Nylon 4.5m 3.8cm)~~
+- [x] ~~Bouchons oreille (Marque Flare Audio - Isolate Aluminium)~~
+
+**Nécessite plus de recherches (modèles, marque, ...)**
+
+* * *
+
+**Après mon installation**
+- [ ] Articles déco (vase, ...)
+- [ ] Outils de menuisierie
+- [ ] Outils de bricolage
+- [ ] Théière design
+- [ ] Batterie de cuisine (haut de gamme, style Mauviel, de Buyer ou Le Creuset) : Plutôt inox
+- [ ] Cocotte en fonte
+- [ ] Grill en fonte 
+- [ ] Poele en fonte (cast iron skillet - Skeppshult)
+- [ ] Coffret d'épices
