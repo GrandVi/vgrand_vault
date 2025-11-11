@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/Idées cadeaux perso/Liste cadeaux.md",
+                "file": "Evernote/Vie quotidienne/Guide des tailles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste cadeaux"
+              "title": "Guide des tailles"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cadeau",
+                "query": "taille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,9 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8103b8f83c9cbddc",
+  "active": "324fdc32bb31004a",
   "lastOpenFiles": [
     "Evernote/Vie quotidienne/Guide des tailles.md",
+    "Evernote/Idées cadeaux perso/Liste cadeaux.md",
     "Evernote/Sport - Divers/Guide des tailles - Sport.md",
     "Welcome.md",
     "Evernote/Boulot/_resources",
@@ -232,7 +233,6 @@
     "Evernote/Vie quotidienne/_resources",
     "Evernote/Vie quotidienne",
     "Evernote/Idées cadeaux perso/_resources",
-    "Evernote/Idées cadeaux perso/Liste cadeaux.md",
     "Evernote/Idées cadeaux perso",
     "Evernote/Films/_resources",
     "Evernote/Films/Film Juju.md",
