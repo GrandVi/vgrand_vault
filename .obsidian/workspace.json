@@ -29,10 +29,14 @@
             "id": "324fdc32bb31004a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Evernote/Sport - Divers/Guide des tailles - Sport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guide des tailles - Sport"
             }
           }
         ]
@@ -197,8 +201,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9d6c86bc14d9a837",
+  "active": "8103b8f83c9cbddc",
   "lastOpenFiles": [
+    "Evernote/Sport - Divers/Guide des tailles - Sport.md",
     "Welcome.md",
     "Evernote/Boulot/_resources",
     "Evernote/Boulot/Note sans titre.md",
@@ -239,7 +244,6 @@
     "Evernote/Romans_Polars_Autres.../Liste lecture pour Juju.md",
     "Evernote/Romans_Polars_Autres.../Liste de romans.md",
     "Evernote/Livres de sport/Liste livre sport.md",
-    "Evernote/Livres de développement personnel/Idées lecture développement personnel.md",
     "Evernote/Sport - Divers/_resources/Checklist_ultra_vélo.resources/embedded.png",
     "Evernote/Sport - Divers/_resources/Checklist_bivouac.resources/embedded.png",
     "Evernote/Musculation/_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources/unknown_filename.png"
