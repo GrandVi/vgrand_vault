@@ -63,8 +63,7 @@ C'est ici que vous apportez la touche "fleurs sauvages colorées".
 
 ---
 
-### Récapitulatif pour le devis (à copier-coller)
-
+### Récapitulatif pour le devis 
 Vous pouvez utiliser ce résumé pour être très clair avec les prestataires :
 
 > Configuration : 2 tables banquet de 10m (85 pax) + Zone Cérémonie.
@@ -83,7 +82,7 @@ Vous pouvez utiliser ce résumé pour être très clair avec les prestataires :
 >     
 > - **Fleurs :** Garnissage d'environ **35 bouteilles** en verre ambré (fournies par nos soins).
 >     
-> - Style : 3 à 5 tiges par bouteille, effet déstructuré et sauvage : 150  tiges de le
+> - Style : 3 à 5 tiges par bouteille, effet déstructuré et sauvage : 150  tiges fleuries
 >     
 
 ---
@@ -93,8 +92,3 @@ Vous pouvez utiliser ce résumé pour être très clair avec les prestataires :
 Les fleurs "sauvages" changent radicalement selon le mois.
 
 - **Juin/Juillet :** Pivoines, Pois de senteur, Delphiniums, Lavande.
-    
-- **Août/Septembre :** Dahlias, Tournesols, Cosmos, Zinnias, Reine-Marguerite.
-    
-
-**Souhaitez-vous que je rédige l'email complet de demande de devis à envoyer aux fleuristes, en incluant une question sur les fleurs de saison ?**
