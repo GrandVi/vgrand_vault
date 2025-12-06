@@ -103,7 +103,7 @@ Utilisation du MRV pour la programmation :
 	* Semaines suivantes : Augmentation progressive pour atteindre le MRV
 	* Dernière semaine (avant deload) : > MRV (--> Overreaching utile à ce moment-là du fait de la deload consécutive)
 
-![[./_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources/unknown_filename.png]]
+![[unknown_filename.png]]
 
 Facteurs affectant la fatigue :
 

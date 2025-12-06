@@ -1,3 +1,0 @@
----
----
-![[./_resources/Permis.resources/img_20190222_161906.258.jpg]]
