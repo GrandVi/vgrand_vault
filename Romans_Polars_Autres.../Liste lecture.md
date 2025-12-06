@@ -15,3 +15,7 @@
 * [ ] L'avenir des simples - Jean Rouaud
 * [ ] Nos espérances - Anna Hope
 * [ ] Âme brisée - Akira Mizubayashi
+* [ ] Comment tout peut s'effondrer - Pablo Servigne
+* [ ] J'arrête de râler - Christine Lewicki
+* [ ] Finding Meaning in an Imperfect World - Iddo Landau
+* [ ] Yoga - Emmanuel Carrère
