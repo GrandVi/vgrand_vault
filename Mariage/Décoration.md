@@ -1,10 +1,8 @@
 ## Fleurs
+
 Ambiance bohème, champêtre-chic ou kinfolk.
 
-Voici une estimation détaillée pour affiner votre demande de devis auprès de votre fleuriste.
-
 ---
-
 ### 1. La Cérémonie Laïque : Les 4 Dames Jeannes
 
 Les Dames Jeannes sont volumineuses. Si vous mettez de petits bouquets dedans, ils auront l'air ridicules. Il faut jouer sur la **hauteur** et le **volume**.
@@ -35,9 +33,6 @@ Pour 2 tables de 10 mètres, vous avez 20 mètres linéaires à couvrir.
     - **Variétés :** Mélange d'Eucalyptus (Cinerea ou Parvifolia), Ruscus (tient très bien) et Lierre ou Fougère.
         
     - **Quantité :** Il faut compter en "bottes". Pour 20 mètres bien garnis, il faudra environ **15 à 20 bottes de feuillage** mélangés.
-        
-- **L'option Luxe ("Guirlande") :** Le feuillage est tressé/ficelé ensemble. C'est beaucoup plus cher (main d'œuvre). Précisez bien "feuillage posé à plat" pour votre devis si vous voulez maîtriser le budget.
-    
 
 ### 3. Les Tables : Les Bouteilles (Soliflores & Bouquets)
 
