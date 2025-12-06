@@ -56,9 +56,21 @@
               "icon": "lucide-file",
               "title": "Mariage"
             }
+          },
+          {
+            "id": "46785ff3c032de4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "253d80c5a22de70e",
+  "active": "46785ff3c032de4b",
   "lastOpenFiles": [
     "Evernote/Sport - Divers/Guide des tailles - Sport.md",
     "Mariage.md",
