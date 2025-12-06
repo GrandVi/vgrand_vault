@@ -75,8 +75,7 @@ Vous pouvez utiliser ce résumé pour être très clair avec les prestataires :
 > 
 > - Garnissage de **4 Dames Jeannes** (fournies par nos soins).
 >     
-> - Besoin de hauteur et volume (branchages, fleurs hautes).
->     
+> - Besoin de hauteur et volume (branchages, fleurs hautes) : 60-80 tiges fleuries + beaucoup de feuillage
 > 
 > **Poste 2 : Tables (20 mètres linéaires)**
 > 
@@ -84,7 +83,7 @@ Vous pouvez utiliser ce résumé pour être très clair avec les prestataires :
 >     
 > - **Fleurs :** Garnissage d'environ **35 bouteilles** en verre ambré (fournies par nos soins).
 >     
-> - Style : 3 à 5 tiges par bouteille, effet déstructuré et sauvage.
+> - Style : 3 à 5 tiges par bouteille, effet déstructuré et sauvage : 150  tiges de le
 >     
 
 ---
