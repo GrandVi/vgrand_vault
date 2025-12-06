@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vie quotidienne/Guide des tailles.md",
+                "file": "Mariage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide des tailles"
+              "title": "Mariage"
             }
           }
         ]
@@ -219,6 +219,7 @@
   },
   "active": "8103b8f83c9cbddc",
   "lastOpenFiles": [
+    "Vie quotidienne/Guide des tailles.md",
     "Idées prénoms.md",
     "Voiture/Permis.md",
     "Voiture/Checklist achat voiture.md",
@@ -244,7 +245,6 @@
     "Boulot/Note sans titre.1.md",
     "Boulot/Note sans titre.5.md",
     "Boulot/Note sans titre.md",
-    "Mariage.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
