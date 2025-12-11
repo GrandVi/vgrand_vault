@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mariage/Décoration.md",
+                "file": "Vie quotidienne/Checklist valise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Décoration"
+              "title": "Checklist valise"
             }
           }
         ]
@@ -154,6 +154,7 @@
   },
   "active": "cf5afcc0cfde1d9a",
   "lastOpenFiles": [
+    "Mariage/Décoration.md",
     "Evernote/Sport - Divers/Guide des tailles - Sport.md",
     "Voiture/_resources/Permis.resources/img_20190222_161906.258.jpg",
     "Voiture/_resources/Permis.resources",
@@ -186,7 +187,6 @@
     "Musculation/Notes - Fundamentals principles of Strength Training.md",
     "Musculation/_resources",
     "Musculation",
-    "Mariage/Décoration.md",
     "Mariage/Contacts.md",
     "Idées prénoms.md",
     "Idées cadeaux perso/Liste cadeaux.md",
