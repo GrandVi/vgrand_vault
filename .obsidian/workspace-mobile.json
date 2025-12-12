@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Checklist valise"
             }
+          },
+          {
+            "id": "bbfb2271a2f960f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,8 +163,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf5afcc0cfde1d9a",
+  "active": "bbfb2271a2f960f3",
   "lastOpenFiles": [
+    "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
     "Evernote/Sport - Divers/Guide des tailles - Sport.md",
     "Voiture/_resources/Permis.resources/img_20190222_161906.258.jpg",
@@ -167,7 +179,6 @@
     "Vie quotidienne/Liste de courses.md",
     "Vie quotidienne/Guide des tailles.md",
     "Vie quotidienne/Courses.md",
-    "Vie quotidienne/Checklist valise.md",
     "Vie quotidienne/Aiguisage couteaux.md",
     "Vie quotidienne",
     "Triathlon/Liste chaussures.md",
