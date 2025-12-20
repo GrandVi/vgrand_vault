@@ -14,12 +14,12 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 | **_Affaires perso_**            |                                                                             |
 |                                 | Porte-feuille                                                               |
 |                                 | Papiers voiture                                                             |
-|                                 | Clefs (Bar sur Loup, BO, Voiture, ...)                                      |
+| X                               | Clefs (Bar sur Loup, BO, Voiture, ...)                                      |
 |                                 | Bullet-journal                                                              |
 |                                 | Trousse + Affaires BUJO                                                     |
 |                                 | Ordinateur                                                                  |
 | X                               | Téléphone                                                                   |
-|                                 | Écouteurs                                                                   |
+| X                               | Écouteurs                                                                   |
 |                                 | Chargeurs (Ordi + Tel + Montre)                                             |
 | X                               | Bouquins                                                                    |
 |                                 | Disque dur externe                                                          |
