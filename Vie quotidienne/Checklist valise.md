@@ -6,7 +6,7 @@ Checklist valise
 Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 
 * * *
-$
+
 
 |                                 |                                                                             |
 | ------------------------------- | --------------------------------------------------------------------------- |
@@ -69,13 +69,13 @@ $
 | **_Habits_**                    |                                                                             |
 |                                 | Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche) |
 |                                 | Serviette                                                                   |
-|                                 | T-shirts                                                                    |
-|                                 | Pulls                                                                       |
-|                                 | Caleçons                                                                    |
-|                                 | Shorts                                                                      |
-|                                 | Jeans                                                                       |
-|                                 | Chaussettes                                                                 |
-|                                 | Veste                                                                       |
+| X                               | T-shirts                                                                    |
+| X                               | Pulls                                                                       |
+| X                               | Caleçons                                                                    |
+| X                               | Shorts                                                                      |
+| X                               | Jeans                                                                       |
+| X                               | Chaussettes                                                                 |
+| X                               | Veste                                                                       |
 |                                 | Chemise                                                                     |
 | **_Autres_**                    |                                                                             |
 |                                 | Sac de course                                                               |
