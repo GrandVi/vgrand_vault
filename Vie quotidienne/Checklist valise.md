@@ -12,7 +12,7 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 | ------------------------------- | --------------------------------------------------------------------------- |
 | **AFFAIRES**                    |                                                                             |
 | **_Affaires perso_**            |                                                                             |
-|                                 | Porte-feuille                                                               |
+| X                               | Porte-feuille                                                               |
 |                                 | Papiers voiture                                                             |
 | X                               | Clefs (Bar sur Loup, BO, Voiture, ...)                                      |
 |                                 | Bullet-journal                                                              |
