@@ -67,8 +67,8 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 |                                 | Démonte pneus                                                               |
 |                                 | Gourdes                                                                     |
 | **_Habits_**                    |                                                                             |
-|                                 | Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche) |
-|                                 | Serviette                                                                   |
+| X                               | Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche) |
+| X                               | Serviette                                                                   |
 | X                               | T-shirts                                                                    |
 | X                               | Pulls                                                                       |
 | X                               | Caleçons                                                                    |
