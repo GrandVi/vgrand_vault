@@ -6,6 +6,7 @@ Checklist valise
 Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 
 * * *
+$
 
 |                                 |                                                                             |
 | ------------------------------- | --------------------------------------------------------------------------- |
