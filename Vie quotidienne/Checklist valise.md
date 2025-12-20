@@ -37,8 +37,8 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 | **_Affaires de running/rando_** |                                                                             |
 |                                 | Chaussures (Running + Trail ?)                                              |
 |                                 | Montre + Cardio                                                             |
-|                                 | T-shirt + Short + Boxer + Chaussettes                                       |
-|                                 | Pull de sport                                                               |
+| X                               | T-shirt + Short + Boxer + Chaussettes                                       |
+| X                               | Pull de sport                                                               |
 |                                 | Camelbak (+ gourdes ?)                                                      |
 |                                 | Bâtons                                                                      |
 |                                 | K-way                                                                       |
