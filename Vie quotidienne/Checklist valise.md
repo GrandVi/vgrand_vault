@@ -13,14 +13,14 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 | **AFFAIRES**                    |                                                                             |
 | **_Affaires perso_**            |                                                                             |
 | X                               | Porte-feuille                                                               |
-|                                 | Papiers voiture                                                             |
+| X                               | Papiers voiture                                                             |
 | X                               | Clefs (Bar sur Loup, BO, Voiture, ...)                                      |
 |                                 | Bullet-journal                                                              |
 |                                 | Trousse + Affaires BUJO                                                     |
-|                                 | Ordinateur                                                                  |
+| X                               | Ordinateur                                                                  |
 | X                               | Téléphone                                                                   |
 | X                               | Écouteurs                                                                   |
-|                                 | Chargeurs (Ordi + Tel + Montre)                                             |
+| X                               | Chargeurs (Ordi + Tel + Montre)                                             |
 | X                               | Bouquins                                                                    |
 |                                 | Disque dur externe                                                          |
 |                                 | Lunettes de soleil                                                          |
