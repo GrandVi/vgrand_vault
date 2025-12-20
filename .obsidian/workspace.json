@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Décoration"
             }
+          },
+          {
+            "id": "082bcad11c8d5b87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8103b8f83c9cbddc",
+  "active": "082bcad11c8d5b87",
   "lastOpenFiles": [
     "Mariage/Contacts.md",
     "Mariage/Décoration.md",
