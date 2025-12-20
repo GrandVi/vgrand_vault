@@ -44,7 +44,7 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 |                                 | K-way                                                                       |
 |                                 | Tour de cou                                                                 |
 |                                 | Gants                                                                       |
-|                                 | Pantalon de rando                                                           |
+| X                               | Pantalon de rando                                                           |
 |                                 | Frontale                                                                    |
 | **_Affaires de natation_**      |                                                                             |
 |                                 | Maillot                                                                     |
