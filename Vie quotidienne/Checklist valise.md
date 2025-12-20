@@ -36,16 +36,16 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 |                                 | Carnet de notes                                                             |
 | **_Affaires de running/rando_** |                                                                             |
 |                                 | Chaussures (Running + Trail ?)                                              |
-|                                 | Montre + Cardio                                                             |
+| X                               | Montre + Cardio                                                             |
 | X                               | T-shirt + Short + Boxer + Chaussettes                                       |
 | X                               | Pull de sport                                                               |
 |                                 | Camelbak (+ gourdes ?)                                                      |
 |                                 | Bâtons                                                                      |
-|                                 | K-way                                                                       |
-|                                 | Tour de cou                                                                 |
-|                                 | Gants                                                                       |
+| X                               | K-way                                                                       |
+| X                               | Tour de cou                                                                 |
+| X                               | Gants                                                                       |
 | X                               | Pantalon de rando                                                           |
-|                                 | Frontale                                                                    |
+| X                               | Frontale                                                                    |
 | **_Affaires de natation_**      |                                                                             |
 |                                 | Maillot                                                                     |
 |                                 | Lunettes                                                                    |
