@@ -18,10 +18,10 @@ Petite checklist classique losrque l'on rentre pour un WE au BO par exemple.
 |                                 | Bullet-journal                                                              |
 |                                 | Trousse + Affaires BUJO                                                     |
 |                                 | Ordinateur                                                                  |
-|                                 | Téléphone                                                                   |
+| X                               | Téléphone                                                                   |
 |                                 | Écouteurs                                                                   |
 |                                 | Chargeurs (Ordi + Tel + Montre)                                             |
-|                                 | Bouquins                                                                    |
+| X                               | Bouquins                                                                    |
 |                                 | Disque dur externe                                                          |
 |                                 | Lunettes de soleil                                                          |
 |                                 | Appareil photo                                                              |
