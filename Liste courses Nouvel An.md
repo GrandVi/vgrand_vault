@@ -23,4 +23,7 @@
 ## Salade de fruits
 - [ ] Poires
 - [ ] Oranges
-- [ ] 
+- [ ] Kiwi
+- [ ] Banane
+- [ ] Ananas
+- [ ] Menthe
