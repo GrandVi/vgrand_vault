@@ -41,4 +41,9 @@
 - [ ] Cébette
 - [ ] Beurre de cacahuètes
 - [ ] Dashi instantané
-- [ ] Poireaux
+- [ ] 2 Poireaux
+
+## Crêpes
+- [ ] Lait de soja
+- [ ] Farine de sarrasin
+- [ ] 
