@@ -7,4 +7,7 @@
 - [ ] Grenade
 
 ## Apéro
-- [ ] 
+- [ ] Halloumi
+- [ ] Abricots secs
+- [ ] Betterave
+- [ ] Romarin/Thym frais
