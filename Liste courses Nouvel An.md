@@ -8,7 +8,7 @@
 - [ ] Lait
 - [ ] 20 cl de crème
 - [ ] 200g d'oignons roses
-- [ ] 
+- [ ] Noix de pécan
 
 ## Apéro
 - [ ] Halloumi
