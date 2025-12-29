@@ -25,14 +25,17 @@
             "id": "3295e7213c79a881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Repas de noel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Repas de noel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d6c86bc14d9a837",
+  "active": "0d2e9dea4f8ff209",
   "lastOpenFiles": [
+    "Repas de noel.md",
     "Liste courses Nouvel An.md",
     "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
@@ -220,7 +224,6 @@
     "DIY/Recettes produits beauté DIY.md",
     "DIY/Fit Guide Chris King components.md",
     "Calisthenics/LCF Prog.md",
-    "Calisthenics/Tips & guidelines.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
