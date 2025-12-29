@@ -20,6 +20,10 @@
 - [ ] Orange
 - [ ] Châtaignes cuites
 - [ ] Blinis
+- [ ] Sauce soja
+- [ ] Aneth
+- [ ] Baies roses
+- [ ] Algues en paillettes
 
 ## Salade de fruits
 - [ ] Poires
