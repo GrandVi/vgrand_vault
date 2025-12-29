@@ -5,6 +5,10 @@
 - [ ] 5 épices
 - [ ] Persil frais
 - [ ] Grenade
+- [ ] Lait
+- [ ] 20 cl de crème
+- [ ] 200g d'oignons roses
+- [ ] 
 
 ## Apéro
 - [ ] Halloumi
