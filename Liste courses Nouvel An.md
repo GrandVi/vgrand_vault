@@ -36,4 +36,8 @@
 ## Ramens
 - [ ] Champignons
 - [ ] Pâtes
-- [ ] 
+- [ ] Lait de soja
+- [ ] Gingembre frais
+- [ ] Cébette
+- [ ] Beurre de cacahuètes
+- [ ] Dashi instantané
