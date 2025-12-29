@@ -35,8 +35,7 @@
               "title": "Repas de noel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3295e7213c79a881",
+  "active": "0d2e9dea4f8ff209",
   "lastOpenFiles": [
-    "Liste courses Nouvel An.md",
     "Repas de noel.md",
+    "Liste courses Nouvel An.md",
     "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
     "Mariage/Contacts.md",

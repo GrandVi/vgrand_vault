@@ -18,4 +18,9 @@
 - [ ] 2 avocats
 - [ ] 2 échalotes
 - [ ] Orange
+- [ ] Châtaignes cuites
+
+## Salade de fruits
+- [ ] Poires
+- [ ] Oranges
 - [ ] 
