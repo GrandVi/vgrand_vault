@@ -19,6 +19,7 @@
 - [ ] 2 échalotes
 - [ ] Orange
 - [ ] Châtaignes cuites
+- [ ] Blinis
 
 ## Salade de fruits
 - [ ] Poires
