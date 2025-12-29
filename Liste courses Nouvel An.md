@@ -41,3 +41,4 @@
 - [ ] Cébette
 - [ ] Beurre de cacahuètes
 - [ ] Dashi instantané
+- [ ] Poireaux
