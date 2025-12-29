@@ -15,3 +15,7 @@
 - [ ] Abricots secs
 - [ ] Betterave
 - [ ] Romarin/Thym frais
+- [ ] 2 avocats
+- [ ] 2 échalotes
+- [ ] Orange
+- [ ] 
