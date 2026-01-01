@@ -3,10 +3,8 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 ---
 * * *
 
-***Jeu vidé pour Ulien***
-- Kirby air riders
-- Metroid Prime 4
-- 
+***Idées pour offrir***
+- Maki : carnet de lecture
 **Idées pour Noel/Anniversaire**
 
 - [ ] Bouquins (cf liste de lecture)
