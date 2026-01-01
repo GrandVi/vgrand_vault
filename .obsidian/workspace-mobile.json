@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repas de noel.md",
+                "file": "Idées cadeaux perso/Liste cadeaux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repas de noel"
+              "title": "Liste cadeaux"
             }
           }
         ]
@@ -154,8 +154,8 @@
   },
   "active": "ecd631021d7ede95",
   "lastOpenFiles": [
-    "Liste courses Nouvel An.md",
     "Repas de noel.md",
+    "Liste courses Nouvel An.md",
     "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
     "Evernote/Sport - Divers/Guide des tailles - Sport.md",
