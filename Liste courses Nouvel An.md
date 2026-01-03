@@ -34,16 +34,6 @@
 - [x] Menthe
 
 ## Ramens
-<<<<<<< HEAD
-- [ ] 2 x Champignons
-- [ ] Pâtes
-- [ ] Lait de soja
-- [ ] Gingembre frais
-- [ ] Cébette
-- [ ] Beurre de cacahuètes
-- [ ] Dashi instantané
-- [ ] 2 Poireaux
-=======
 - [x] Champignons
 - [x] Pâtes
 - [x] Lait de soja
@@ -52,8 +42,8 @@
 - [x] Beurre de cacahuètes
 - [x] Dashi instantané
 - [x] 2 Poireaux
->>>>>>> origin/main
+
 
 ## Crêpes
 - [x] Lait de soja
-- [x] Farine de sarrasin
+- [x] Farine de sarrasi
