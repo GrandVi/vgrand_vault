@@ -34,7 +34,7 @@
 - [ ] Menthe
 
 ## Ramens
-- [ ] Champignons
+- [ ] 2 x Champignons
 - [ ] Pâtes
 - [ ] Lait de soja
 - [ ] Gingembre frais
