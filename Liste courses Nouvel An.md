@@ -1,39 +1,40 @@
 ## Polenta
-- [ ] 800g de choux de Bruxelles
-- [ ] Ail
-- [ ] Sirop d'érable
-- [ ] 5 épices
-- [ ] Persil frais
-- [ ] Grenade
-- [ ] Lait
-- [ ] 20 cl de crème
-- [ ] 200g d'oignons roses
-- [ ] Noix de pécan
+- [x] 800g de choux de Bruxelles
+- [x] Ail
+- [x] Sirop d'érable
+- [x] 5 épices
+- [x] Persil frais
+- [x] Grenade
+- [x] Lait
+- [x] 20 cl de crème
+- [x] 200g d'oignons roses
+- [x] Noix de pécan
 
 ## Apéro
-- [ ] Halloumi
-- [ ] Abricots secs
-- [ ] Betterave
-- [ ] Romarin/Thym frais
-- [ ] 2 avocats
-- [ ] 2 échalotes
-- [ ] Orange
-- [ ] Châtaignes cuites
-- [ ] Blinis
-- [ ] Sauce soja
-- [ ] Aneth
-- [ ] Baies roses
+- [x] Halloumi
+- [x] Abricots secs
+- [x] Betterave
+- [x] Romarin/Thym frais
+- [x] 2 avocats
+- [x] 2 échalotes
+- [x] Orange
+- [x] Châtaignes cuites
+- [x] Blinis
+- [x] Sauce soja
+- [x] Aneth
+- [x] Baies roses
 - [ ] Algues en paillettes
 
 ## Salade de fruits
-- [ ] Poires
-- [ ] Oranges (pas trop)
-- [ ] Kiwi
-- [ ] Banane
-- [ ] Ananas
-- [ ] Menthe
+- [x] Poires
+- [x] Oranges (pas trop)
+- [x] Kiwi
+- [x] Banane
+- [x] Ananas
+- [x] Menthe
 
 ## Ramens
+<<<<<<< HEAD
 - [ ] 2 x Champignons
 - [ ] Pâtes
 - [ ] Lait de soja
@@ -42,8 +43,17 @@
 - [ ] Beurre de cacahuètes
 - [ ] Dashi instantané
 - [ ] 2 Poireaux
+=======
+- [x] Champignons
+- [x] Pâtes
+- [x] Lait de soja
+- [x] Gingembre frais
+- [x] Cébette
+- [x] Beurre de cacahuètes
+- [x] Dashi instantané
+- [x] 2 Poireaux
+>>>>>>> origin/main
 
 ## Crêpes
-- [ ] Lait de soja
-- [ ] Farine de sarrasin
-- [ ] 
+- [x] Lait de soja
+- [x] Farine de sarrasin

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c4f3d9e4f252d85",
+        "id": "434d482728f3d352",
         "type": "tabs",
         "children": [
           {
-            "id": "0d2e9dea4f8ff209",
+            "id": "80a4fddcc6505f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "3295e7213c79a881",
+            "id": "51b5952edc88f590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repas de noel.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repas de noel"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d2e9dea4f8ff209",
+  "active": "51b5952edc88f590",
   "lastOpenFiles": [
-    "Repas de noel.md",
     "Liste courses Nouvel An.md",
+    "conflict-files-obsidian-git.md",
+    "Repas de noel.md",
     "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
     "Mariage/Contacts.md",
@@ -223,7 +225,6 @@
     "Documents identité/Carte vitale.md",
     "DIY/Recettes produits beauté DIY.md",
     "DIY/Fit Guide Chris King components.md",
-    "Calisthenics/LCF Prog.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
