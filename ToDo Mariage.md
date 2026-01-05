@@ -6,4 +6,5 @@
 - [ ] Définir les jeux
 - [ ] Prévoir les menus du brunch
 - [ ] Faire un point avec les photographes
+- [ ] 
 
