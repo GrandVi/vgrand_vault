@@ -1,2 +1,5 @@
 - [ ] Valider avec DJ TED
+- [ ] Passer voir la fleuriste pour valider le projet + budget fleurs
+- [ ] Faire un point déco et valider la mise en scène
+- [ ] Définir précisément le déroulé de la journée
 - [ ] 
