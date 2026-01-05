@@ -6,5 +6,6 @@
 - [ ] Définir les jeux
 - [ ] Prévoir les menus du brunch
 - [ ] Faire un point avec les photographes
-- [ ] 
+- [ ] Continuer la collection de bouteilles pour les fleurs
+- [ ] Réfléchir à des orgas de secours au cas où il pleuve averse
 
