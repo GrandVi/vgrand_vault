@@ -1,6 +1,5 @@
 ---
 ---
-# Checklist valise
 Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 
 ---
@@ -20,15 +19,17 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Lunettes de soleil
 - [ ] Appareil photo
 - [ ] Trépied
-
-## 🏋️ Affaires de muscu
-- [ ] Élastiques
-- [ ] Haltères
-- [ ] Anneaux
-- [ ] Barre de traction
-- [ ] Rouleaux de massage
-- [ ] Corde à sauter
-- [ ] Carnet de notes
+## 👕 Habits
+- [ ] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
+- [ ] Serviette
+- [ ] T-shirts
+- [ ] Pulls
+- [ ] Caleçons
+- [ ] Shorts
+- [ ] Jeans
+- [ ] Chaussettes
+- [ ] Veste
+- [ ] Chemise
 
 ## 🏃 Affaires de running/rando
 - [ ] Chaussures (Running + Trail ?)
@@ -43,15 +44,6 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Pantalon de rando
 - [ ] Frontale
 
-## 🏊 Affaires de natation
-- [ ] Maillot
-- [ ] Lunettes
-- [ ] Pull-buoy
-- [ ] Palmes
-- [ ] Tubas
-- [ ] Plaquettes
-- [ ] Serviette
-
 ## 🚴 Affaires de vélo
 - [ ] Lunettes de soleil
 - [ ] Cuissard vélo
@@ -65,21 +57,25 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Démonte pneus
 - [ ] Gourdes
 
-## 👕 Habits
-- [ ] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
+## 🏊 Affaires de natation
+- [ ] Maillot
+- [ ] Lunettes
+- [ ] Pull-buoy
+- [ ] Palmes
+- [ ] Tubas
+- [ ] Plaquettes
 - [ ] Serviette
-- [ ] T-shirts
-- [ ] Pulls
-- [ ] Caleçons
-- [ ] Shorts
-- [ ] Jeans
-- [ ] Chaussettes
-- [ ] Veste
-- [ ] Chemise
+
+## 🏋️ Affaires de muscu
+- [ ] Élastiques
+- [ ] Haltères
+- [ ] Anneaux
+- [ ] Barre de traction
+- [ ] Rouleaux de massage
+- [ ] Corde à sauter
+- [ ] Carnet de notes
 
 ## 📦 Autres
 - [ ] Sac de course
 - [ ] Tupperwares
 - [ ] Sac isotherme + pains de glace
-
-![[./_resources/Checklist_valise.resources/embedded.png]]
