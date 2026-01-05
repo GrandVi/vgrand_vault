@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vie quotidienne/Checklist valise.md",
+                "file": "ToDo Mariage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist valise"
+              "title": "ToDo Mariage"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "list",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,10 +182,11 @@
   },
   "active": "80a4fddcc6505f92",
   "lastOpenFiles": [
+    "Vie quotidienne/Checklist valise.md",
+    "ToDo Mariage.md",
     "Liste courses Nouvel An.md",
     "conflict-files-obsidian-git.md",
     "Repas de noel.md",
-    "Vie quotidienne/Checklist valise.md",
     "Mariage/Décoration.md",
     "Mariage/Contacts.md",
     "Idées prénoms.md",
@@ -209,7 +209,6 @@
     "Documents identité/Carte identité.md",
     "Documents identité/Carte vitale.md",
     "DIY/Recettes produits beauté DIY.md",
-    "DIY/Fit Guide Chris King components.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
