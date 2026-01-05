@@ -7,7 +7,7 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Porte-feuille
 - [x] Papiers voiture
 - [ ] Clefs (Bar sur Loup, BO, Voiture, ...)
-- [ ] Bullet-journal
+- [x] Bullet-journal
 - [ ] Trousse + Affaires BUJO
 - [ ] Ordinateur
 - [ ] Téléphone
