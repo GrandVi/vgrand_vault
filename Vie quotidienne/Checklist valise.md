@@ -3,10 +3,9 @@
 Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 
 ---
-
 ## 👜 Affaires perso
 - [ ] Porte-feuille
-- [ ] Papiers voiture
+- [x] Papiers voiture
 - [ ] Clefs (Bar sur Loup, BO, Voiture, ...)
 - [ ] Bullet-journal
 - [ ] Trousse + Affaires BUJO
@@ -19,29 +18,30 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Lunettes de soleil
 - [ ] Appareil photo
 - [ ] Trépied
+
 ## 👕 Habits
 - [ ] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
 - [ ] Serviette
-- [ ] T-shirts
-- [ ] Pulls
-- [ ] Caleçons
-- [ ] Shorts
-- [ ] Jeans
-- [ ] Chaussettes
-- [ ] Veste
-- [ ] Chemise
+- [x] T-shirts
+- [x] Pulls
+- [x] Caleçons
+- [x] Shorts
+- [x] Jeans
+- [x] Chaussettes
+- [x] Veste
+- [x] Chemise
 
 ## 🏃 Affaires de running/rando
 - [ ] Chaussures (Running + Trail ?)
 - [ ] Montre + Cardio
-- [ ] T-shirt + Short + Boxer + Chaussettes
-- [ ] Pull de sport
-- [ ] Camelbak (+ gourdes ?)
-- [ ] Bâtons
+- [x] T-shirt + Short + Boxer + Chaussettes
+- [x] Pull de sport
+- [x] Camelbak (+ gourdes ?)
+- [x] Bâtons
 - [ ] K-way
-- [ ] Tour de cou
-- [ ] Gants
-- [ ] Pantalon de rando
+- [x] Tour de cou
+- [x] Gants
+- [x] Pantalon de rando
 - [ ] Frontale
 
 ## 🚴 Affaires de vélo
