@@ -38,7 +38,7 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [x] Pull de sport
 - [x] Camelbak (+ gourdes ?)
 - [x] Bâtons
-- [ ] K-way
+- [x] K-way
 - [x] Tour de cou
 - [x] Gants
 - [x] Pantalon de rando
