@@ -8,6 +8,7 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 **Idées pour Noel/Anniversaire**
 
 - [ ] Bouquins (cf liste de lecture)
+- [ ] Sony ult wear
 - [ ] Elite prism porte bidon (1 gauche, 1 droit)
 - [ ] Cuissard Albion Cycling + Veste Zoa Insulated + warmer
 - [ ] JDD + Boitier pédalier + Outils démonte boitier pédalier
