@@ -1,3 +1,7 @@
 - Quand faire la prochaine AG ? --> Proposer un point en Mars si Adam est là ?
 - Poser la question sur la nature des tantièmes (généraux/spécifiques)
 - Retirer Falquet de la liste des copropriétaires
+
+Travaux envisagés :
+- Nids frelons/guêpes
+- 
