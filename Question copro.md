@@ -1,0 +1,3 @@
+- Quand faire la prochaine AG ?
+- Poser la question sur la nature des tantièmes (généraux/spécifiques)
+- Retirer Falquet 
