@@ -5,6 +5,9 @@
 - [ ] Définir précisément le déroulé de la journée
 - [ ] Définir les jeux :
 	- [ ] Passer voir à la ludothèque
+	- [ ] Molky
+	- [ ] Beer pong
+	- [ ] 
 - [ ] Prévoir les menus du brunch
 - [ ] Faire un point avec les photographes
 - [ ] Continuer la collection de bouteilles pour les fleurs
