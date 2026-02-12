@@ -1,4 +1,4 @@
-- [ ] Valider avec DJ TED
+- [x] Valider avec DJ TED
 - [ ] Prévoir la soirée + les musiques du repas avec DJ TED
 - [ ] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
