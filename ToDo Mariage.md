@@ -5,7 +5,7 @@
 - [ ] Définir précisément le déroulé de la journée
 	- [ ] 16h --> Cérémonie
 	- [ ] 18h --> Vin d'honneur
-	- [ ] 20h --> 
+	- [ ] 20h --> Repas
 - [ ] Définir les jeux :
 	- [ ] Passer voir à la ludothèque
 	- [ ] Molky
