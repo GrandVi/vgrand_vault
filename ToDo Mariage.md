@@ -2,7 +2,7 @@
 - [ ] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
-- [ ] Définir précisément le déroulé de la journée
+- [ ] Définir précisément le déroulé de la journéel
 - [ ] Définir les jeux :
 	- [ ] Passer voir à la ludothèque
 	- [ ] Molky
