@@ -11,10 +11,14 @@
             "id": "26fa0c394156f46b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ToDo Mariage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ToDo Mariage"
             }
           }
         ]
@@ -148,8 +152,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c39703cfb0bffe4c",
+  "active": "26fa0c394156f46b",
   "lastOpenFiles": [
+    "Question copro.md",
     "ToDo Mariage.md",
     "Vie quotidienne/Aiguisage couteaux.md",
     "Musculation/Notes - Fundamentals principles of Strength Training.md",
@@ -182,7 +187,6 @@
     "Sport - Divers/Checklist bivouac.md",
     "Sport - Divers",
     "Romans_Polars_Autres.../Liste lecture.md",
-    "Romans_Polars_Autres.../Liste de romans.md",
     "Romans_Polars_Autres...",
     "Musculation/_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources/unknown_filename.png",
     "Musculation/_resources/Notes_-_Fundamentals_principles_of_Strength_Training.resources",
