@@ -1,1 +1,6 @@
-- [ ] Passer à la phr
+- [ ] Passer à la pharmacie : 
+	- [ ] Vitamine D + Dolip pour chaton
+	- [ ] Tardyferon + piqouzes pour Juju
+	- [ ] Ramener le tire lait
+	- [ ] Acheter de la vitamine D pour moi
+- [ ] 
