@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "0bbe48bd56ebbf6f",
+            "id": "a3d146f7dacfb4fa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "ToDo"
             }
           }
         ],
@@ -207,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bbe48bd56ebbf6f",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
-    "Question copro.md",
     "ToDo Mariage.md",
+    "ToDo.md",
+    "Question copro.md",
     "Vie quotidienne/Checklist valise.md",
     "Liste courses Nouvel An.md",
     "conflict-files-obsidian-git.md",
@@ -235,7 +238,6 @@
     "Idées cadeaux perso/Liste cadeaux.md",
     "Films/Film Juju.md",
     "Documents identité/Carte identité.md",
-    "Documents identité/Carte vitale.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
