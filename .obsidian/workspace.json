@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "ToDo Mariage"
             }
+          },
+          {
+            "id": "0bbe48bd56ebbf6f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6ad50e9ae648879",
+  "active": "0bbe48bd56ebbf6f",
   "lastOpenFiles": [
     "Question copro.md",
     "ToDo Mariage.md",
