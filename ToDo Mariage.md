@@ -2,6 +2,7 @@
 - [ ] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
+	- [ ] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
 - [ ] Définir précisément le déroulé de la journée
 	- [ ] 16h --> Cérémonie
 	- [ ] 18h --> Vin d'honneur
