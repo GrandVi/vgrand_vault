@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d146f7dacfb4fa",
+  "active": "dccf678acf0c3c61",
   "lastOpenFiles": [
     "ToDo Mariage.md",
     "ToDo.md",
