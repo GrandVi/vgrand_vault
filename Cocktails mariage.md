@@ -1,6 +1,7 @@
-### 🌿 1. Le Mojito 
+Pour la soirée dansante (le bar de nuit), on compte généralement **2 à 3 cocktails par personne**. Pour 85 invités (en gardant à l'esprit que certains ne boiront pas d'alcool et que d'autres en boiront plus), tablons sur **250 cocktails au total**. En proposant 3 recettes, cela représente environ **85 verres par cocktail**.
 
-Puisque vous souhaitez en préparer à l'avance, le Mojito demande une petite attention particulière pour éviter que la menthe ne noircisse ou ne donne un goût amer, et que l'eau gazeuse ne perde ses bulles.
+---
+### 🌿 1. Le Mojito 
 
 **Ingrédients (pour 1 verre) :**
 
@@ -18,10 +19,7 @@ Mélangez le rhum, le jus de citron vert (filtré, sans la peau) et le sirop de 
 Ne mettez **surtout pas** la menthe, l'eau gazeuse et les glaçons dans la fontaine. Laissez les feuilles de menthe, l'eau gazeuse et les seaux de glaçons à côté. Les invités (ou le barman) mettront des glaçons et de la menthe dans leur verre, se serviront de votre "base", et compléteront eux-mêmes d'eau gazeuse !
 
 ---
-
 ### 🍋 2. Le Gin Tonic (Le chic sans effort)
-
-C'est le cocktail idéal pour le libre-service ou la préparation minute, car il ne nécessite ni pilon, ni shaker, ni préparation complexe. Il se construit directement dans le verre.
 
 **Ingrédients (pour 1 verre) :**
 
@@ -41,26 +39,15 @@ C'est le cocktail idéal pour le libre-service ou la préparation minute, car il
 
 Puisque le Gin Tonic est très simple, vous pouvez créer un petit atelier autonome. Placez les bouteilles de Gin, les bouteilles de Tonic dans des vasques pleines de glace, et proposez des petites coupelles avec différentes garnitures : rondelles de citron jaune, citron vert, concombre, et pourquoi pas quelques baies roses ou brins de romarin. Vos invités adoreront composer leur propre Gin Tonic !Avec grand plaisir ! Voici les recettes détaillées pour le Mojito et le Gin Tonic, avec les proportions par verre, ainsi que quelques conseils pour les proposer facilement à vos invités.
 
-Toutes mes félicitations pour votre mariage à venir ! La fin du mois de mai est une période magnifique pour célébrer, et il semble que vous ayez déjà très bien avancé sur l'organisation.
-
-Pour vous rassurer d'emblée : vos quantités pour le vin d'honneur et le repas sont excellentes. Avec 36 bouteilles de champagne (environ 215 coupes) et 48 bouteilles de vin (environ 280 verres), vous êtes à près de 6 verres par personne, ce qui est très généreux et parfait pour couvrir l'apéritif et le dîner.
-
-Pour la soirée dansante (le bar de nuit), on compte généralement **2 à 3 cocktails par personne**. Pour 85 invités (en gardant à l'esprit que certains ne boiront pas d'alcool et que d'autres en boiront plus), tablons sur **250 cocktails au total**. En proposant 3 recettes, cela représente environ **85 verres par cocktail**.
-
+---
 ### 🫚 3. Le Moscow Mule (Le rafraîchissant épicé)
-
-Traditionnellement servi dans une tasse en cuivre (qui garde le cocktail extrêmement frais), il sera tout aussi délicieux et joli dans de beaux verres transparents pour votre mariage. Il se prépare directement dans le verre, sans aucun matériel spécifique.
 
 **Ingrédients (pour 1 verre) :**
 
 - 4 cl de Vodka
-    
 - 12 cl de Ginger Beer (bière de gingembre sans alcool, très pétillante)
-    
 - 1,5 cl de jus de citron vert (l'équivalent d'un quart de citron vert pressé)
-    
 - Beaucoup de glaçons
-    
 - En garniture : 1 rondelle ou un quartier de citron vert (et éventuellement un brin de menthe pour la décoration)
     
 
