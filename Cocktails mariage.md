@@ -49,31 +49,12 @@ Puisque le Gin Tonic est très simple, vous pouvez créer un petit atelier auton
 - 1,5 cl de jus de citron vert (l'équivalent d'un quart de citron vert pressé)
 - Beaucoup de glaçons
 - En garniture : 1 rondelle ou un quartier de citron vert (et éventuellement un brin de menthe pour la décoration)
-    
-
-**Préparation (au verre) :**
-
-1. Remplissez le verre (ou la tasse) de glaçons jusqu'en haut.
-    
-2. Versez les 4 cl de Vodka et le jus de citron vert.
-    
-3. Complétez avec la Ginger Beer.
-    
-4. Mélangez très doucement une seule fois avec une cuillère pour lier les ingrédients sans perdre les bulles.
-    
-5. Déposez la rondelle de citron vert (et la petite tête de menthe si vous en avez) sur le dessus.
-    
 
 💡 **Astuce "Bar Autonome" :**
 
 Tout comme le Gin Tonic, c'est le candidat parfait pour un bar où les invités se servent eux-mêmes. Vous pouvez d'ailleurs mutualiser les ingrédients : les citrons verts coupés en quartiers et la menthe serviront aussi bien pour le Mojito que pour décorer le Moscow Mule ! Mettez simplement une petite affiche expliquant la recette ("1 dose de Vodka, 3 doses de Ginger Beer, un trait de citron") pour guider vos convives.
 
 ---
-
-Voulez-vous que je vous rédige de petites fiches recettes élégantes et courtes que vous pourrez directement imprimer et encadrer pour les poser sur le bar de votre mariage ?
-
----
-
 ### 🛒 Votre Liste de Courses (pour 250 cocktails au total)
 
 Voici les quantités calculées sur la base de 85 verres par type de cocktail. _(Note : les bouteilles d'alcool fort sont calculées sur un format standard de 70 cl)._
