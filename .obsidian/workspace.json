@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "ToDo Mariage"
             }
-          },
-          {
-            "id": "d022b4aa9b0b8f2d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.12.4"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d022b4aa9b0b8f2d",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
     "ToDo.md",
     "ToDo Mariage.md",
