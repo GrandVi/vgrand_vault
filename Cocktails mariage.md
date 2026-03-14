@@ -47,16 +47,43 @@ Pour vous rassurer d'emblée : vos quantités pour le vin d'honneur et le repas 
 
 Pour la soirée dansante (le bar de nuit), on compte généralement **2 à 3 cocktails par personne**. Pour 85 invités (en gardant à l'esprit que certains ne boiront pas d'alcool et que d'autres en boiront plus), tablons sur **250 cocktails au total**. En proposant 3 recettes, cela représente environ **85 verres par cocktail**.
 
-Voici une proposition complète avec un troisième cocktail et les quantités exactes à prévoir.
+### 🫚 3. Le Moscow Mule (Le rafraîchissant épicé)
 
-### 🍹 Proposition du 3ème Cocktail : Le Moscow Mule
+Traditionnellement servi dans une tasse en cuivre (qui garde le cocktail extrêmement frais), il sera tout aussi délicieux et joli dans de beaux verres transparents pour votre mariage. Il se prépare directement dans le verre, sans aucun matériel spécifique.
 
-Pour accompagner le Mojito et le Gin Tonic, je vous suggère le **Moscow Mule**.
+**Ingrédients (pour 1 verre) :**
 
-- **Pourquoi ?** Il est extrêmement populaire, rafraîchissant, et surtout **très simple à préparer soi-même en libre-service**. Il ne nécessite pas de shaker, juste un assemblage direct dans le verre.
+- 4 cl de Vodka
     
-- **Recette simple (par verre) :** 4 cl de Vodka, 12 cl de Ginger Beer, un trait de jus de citron vert et des glaçons.
+- 12 cl de Ginger Beer (bière de gingembre sans alcool, très pétillante)
     
+- 1,5 cl de jus de citron vert (l'équivalent d'un quart de citron vert pressé)
+    
+- Beaucoup de glaçons
+    
+- En garniture : 1 rondelle ou un quartier de citron vert (et éventuellement un brin de menthe pour la décoration)
+    
+
+**Préparation (au verre) :**
+
+1. Remplissez le verre (ou la tasse) de glaçons jusqu'en haut.
+    
+2. Versez les 4 cl de Vodka et le jus de citron vert.
+    
+3. Complétez avec la Ginger Beer.
+    
+4. Mélangez très doucement une seule fois avec une cuillère pour lier les ingrédients sans perdre les bulles.
+    
+5. Déposez la rondelle de citron vert (et la petite tête de menthe si vous en avez) sur le dessus.
+    
+
+💡 **Astuce "Bar Autonome" :**
+
+Tout comme le Gin Tonic, c'est le candidat parfait pour un bar où les invités se servent eux-mêmes. Vous pouvez d'ailleurs mutualiser les ingrédients : les citrons verts coupés en quartiers et la menthe serviront aussi bien pour le Mojito que pour décorer le Moscow Mule ! Mettez simplement une petite affiche expliquant la recette ("1 dose de Vodka, 3 doses de Ginger Beer, un trait de citron") pour guider vos convives.
+
+---
+
+Voulez-vous que je vous rédige de petites fiches recettes élégantes et courtes que vous pourrez directement imprimer et encadrer pour les poser sur le bar de votre mariage ?
 
 ---
 
@@ -95,11 +122,3 @@ N'oubliez pas ceux qui ne boivent pas d'alcool, les chauffeurs, et la nécessit�
 - **Cola :** 10 Litres.
 - **Jus de fruits (Pomme, Orange, Multi) :** 12 à 15 Litres.
 - **Thé glacé :** 6 Litres.
-
-> **🧊 LE DÉTAIL CRUCIAL : LES GLAÇONS**
-> 
-> C'est l'erreur numéro un des mariages ! Pour refroidir les bouteilles, préparer les cocktails et servir les softs, comptez environ **500 g à 1 kg de glaçons par personne**. Prévoyez de commander au moins **40 à 50 kg de glaçons**.
-
----
-
-Voulez-vous que je vous détaille la meilleure méthode pour préparer vos Mojitos en "Batch" (en grande fontaine à l'avance) afin que la menthe ne devienne pas amère et que les bulles restent pétillantes ?
