@@ -1,32 +1,15 @@
-### 🌿 1. Le Mojito (Le grand classique festif)
+### 🌿 1. Le Mojito 
 
 Puisque vous souhaitez en préparer à l'avance, le Mojito demande une petite attention particulière pour éviter que la menthe ne noircisse ou ne donne un goût amer, et que l'eau gazeuse ne perde ses bulles.
 
 **Ingrédients (pour 1 verre) :**
 
 - 5 cl de Rhum blanc
-    
 - 2 cl de sirop de sucre de canne
-    
 - 1/2 citron vert (coupé en dés) ou 3 cl de jus de citron vert
-    
 - 8 à 10 feuilles de menthe fraîche
-    
 - ~10 cl d'eau gazeuse
-    
 - Beaucoup de glaçons (ou glace pilée)
-    
-
-**Préparation (au verre) :**
-
-1. Dans le fond du verre, déposez les morceaux de citron vert et le sirop de canne. Écrasez légèrement au pilon.
-    
-2. Ajoutez les feuilles de menthe (sans les broyer au pilon pour ne pas libérer d'amertume, tapez-les juste une fois dans le creux de vos mains pour réveiller les arômes).
-    
-3. Remplissez le verre de glaçons, versez le Rhum.
-    
-4. Complétez avec l'eau gazeuse et mélangez doucement avec une cuillère longue pour faire remonter les saveurs du fond.
-    
 
 💡 **Astuce "Préparation à l'avance" (en fontaine ou grand récipient) :**
 
@@ -43,24 +26,16 @@ C'est le cocktail idéal pour le libre-service ou la préparation minute, car il
 **Ingrédients (pour 1 verre) :**
 
 - 4 cl de Gin
-    
 - 10 à 12 cl de Tonic (Tonic Water)
-    
 - 1 tranche de citron (jaune ou vert) OU 1 belle lamelle de concombre frais
-    
 - Beaucoup de glaçons
-    
 
 **Préparation (au verre) :**
 
 1. Remplissez généreusement un grand verre de glaçons (plus il y a de glaçons, moins ils fondent vite, et moins ils diluent le cocktail).
-    
 2. Versez les 4 cl de Gin.
-    
 3. Complétez avec le Tonic.
-    
 4. Ajoutez votre tranche de citron ou de concombre et remuez très délicatement une seule fois pour ne pas casser les bulles du Tonic.
-    
 
 💡 **Astuce "Bar à Gin" :**
 
