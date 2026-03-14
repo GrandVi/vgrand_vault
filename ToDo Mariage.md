@@ -14,7 +14,7 @@
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
-- [ ] Prévoir les cocktails pour le soir et les quantités associées
+- [x] Prévoir les cocktails pour le soir et les quantités associées
 - [ ] Faire un point avec les photographes
 - [ ] Trouver un moyen pour la garde de Gabi
 - [ ] Continuer la collection de bouteilles pour les fleurs

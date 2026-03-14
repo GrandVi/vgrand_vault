@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6445a26f9b2e04f2",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
-    "ToDo Mariage.md",
     "Cocktails mariage.md",
+    "ToDo Mariage.md",
     "ToDo.md",
     "Question copro.md",
     "Vie quotidienne/Checklist valise.md",
