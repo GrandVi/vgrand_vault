@@ -16,7 +16,7 @@
 - [ ] Prévoir les menus du brunch
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [ ] Faire un point avec les photographes
-- [ ] Trouver un moyen pour la garde de Gabi
+- [x] Trouver un moyen pour la garde de Gabi
 - [ ] Continuer la collection de bouteilles pour les fleurs
 - [ ] Construire la palette pour accrocher les tasses
 - [ ] Réfléchir à des orgas de secours au cas où il pleuve averse
