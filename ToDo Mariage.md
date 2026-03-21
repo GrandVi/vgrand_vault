@@ -16,11 +16,11 @@
 - [ ] Prévoir les menus du brunch
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [ ] Faire un point avec les photographes
-- [ ] Finir les achats pour la déco : 
-	- [ ] Bougies
-	- [ ] Photophores
-	- [ ] Sous-bougies
-	- [ ] Fleurs pampa
+- [x] Finir les achats pour la déco : 
+	- [x] Bougies
+	- [x] Photophores
+	- [x] Sous-bougies
+	- [x] Fleurs pampa
 - [x] Trouver un moyen pour la garde de Gabi
 - [ ] Continuer la collection de bouteilles pour les fleurs
 - [x] Construire la palette pour accrocher les tasses
