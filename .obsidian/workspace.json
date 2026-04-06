@@ -41,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prépa brunch.md",
+                "file": "Sport - Divers/Guide des tailles - Sport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prépa brunch"
+              "title": "Guide des tailles - Sport"
+            }
+          },
+          {
+            "id": "558aa719f5d0c695",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notes de version 1.12.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "taille",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ecd013294a1803d",
+  "active": "558aa719f5d0c695",
   "lastOpenFiles": [
+    "Vie quotidienne/Guide des tailles.md",
     "Prépa brunch.md",
     "ToDo Mariage.md",
     "Cocktails mariage.md",
@@ -225,7 +238,6 @@
     "Mariage/Contacts.md",
     "Idées prénoms.md",
     "Mariage",
-    "Vie quotidienne/Guide des tailles.md",
     "Voiture/Permis.md",
     "Voiture/Checklist achat voiture.md",
     "Triathlon/Liste chaussures.md",
