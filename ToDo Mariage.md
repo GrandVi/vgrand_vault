@@ -39,5 +39,6 @@
 # Infos en vrac
 ## Horaires de la journée
 - 15h30 -> Accueil des gens
-- 16h ->Début de la cérémonie
-- 17h -> 
+- 16h -> Début de la cérémonie
+- 17h15 -> Fin de la cérémonie -> Début séance photos + raffraich softs
+- 18h -> Fin séance photos -> Début cocktail
