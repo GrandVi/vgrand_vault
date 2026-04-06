@@ -39,6 +39,7 @@
 
 # Infos en vrac
 ## Horaires de la journée
+* 14h30 -> Séance photos Ju + Vi <3
 - 15h30 -> Accueil des gens
 - 16h -> Début de la cérémonie
 - 17h15 -> Fin de la cérémonie -> Début séance photos + raffraichissements (softs)
