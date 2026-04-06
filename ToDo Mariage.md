@@ -2,6 +2,7 @@
 - [ ] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
+	- [ ] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
 - [ ] Définir précisément le déroulé de la journée
 	- [ ] 16h --> Cérémonie
 	- [ ] 18h --> Vin d'honneur
@@ -13,11 +14,24 @@
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
+- [x] Prévoir les cocktails pour le soir et les quantités associées
 - [ ] Trouver un prof de danse
 - [x] Prévoir les cocktails
 - [ ] Faire un point avec les photographes
+- [x] Finir les achats pour la déco : 
+	- [x] Bougies
+	- [x] Photophores
+	- [x] Sous-bougies
+	- [x] Fleurs pampa
+- [x] Trouver un moyen pour la garde de Gabi
 - [ ] Continuer la collection de bouteilles pour les fleurs
+- [x] Construire la palette pour accrocher les tasses
 - [ ] Réfléchir à des orgas de secours au cas où il pleuve averse
+- [ ] Reste à payer :
+	- [ ] Traiteur
+	- [ ] Photographes
+	- [ ] DJ
+	- [ ] Fleuriste
 - [ ] Faire les affichettes
 - [ ] Louer le camion
 - [ ] Louer les tireuses
