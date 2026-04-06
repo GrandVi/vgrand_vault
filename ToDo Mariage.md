@@ -15,7 +15,7 @@
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
 - [x] Prévoir les cocktails pour le soir et les quantités associées
-- [ ] Trouver un prof de danse
+- [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
 - [ ] Faire un point avec les photographes
 - [x] Finir les achats pour la déco : 
@@ -37,3 +37,7 @@
 - [ ] Louer les tireuses
 
 # Infos en vrac
+## Horaires de la journée
+- 15h30 -> Accueil des gens
+- 16h ->Début de la cérémonie
+- 17h -> 
