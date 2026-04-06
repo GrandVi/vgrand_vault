@@ -49,8 +49,7 @@
               "title": "Guide des tailles - Sport"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taille",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ecd013294a1803d",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
+    "Sport - Divers/Guide des tailles - Sport.md",
+    "Gestion copro.md",
     "Vie quotidienne/Guide des tailles.md",
     "Prépa brunch.md",
     "ToDo Mariage.md",
@@ -232,13 +233,11 @@
     "Triathlon/Liste outils velo.md",
     "Sport - Divers/Checklist bivouac.md",
     "Sport - Divers/Checklist ultra vélo.md",
-    "Sport - Divers/Guide des tailles - Sport.md",
     "Sport - Divers/Idées courses 2024.md",
     "Romans_Polars_Autres.../Liste de romans.md",
     "Romans_Polars_Autres.../Liste lecture.md",
     "Livres de développement personnel/Idées lecture développement personnel.md",
     "Livres de sport/Liste livre sport.md",
-    "Idées cadeaux perso/Liste cadeaux.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
