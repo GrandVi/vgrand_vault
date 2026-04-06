@@ -13,7 +13,12 @@
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
+- [ ] Trouver un prof de danse
+- [x] Prévoir les cocktails
 - [ ] Faire un point avec les photographes
 - [ ] Continuer la collection de bouteilles pour les fleurs
 - [ ] Réfléchir à des orgas de secours au cas où il pleuve averse
+- [ ] Faire les affichettes
+- [ ] Louer le camion
+- [ ] Louer les tireuses
 

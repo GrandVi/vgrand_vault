@@ -17,7 +17,7 @@
 Juju
 
 * Tour de hanches : 90cm
-* Tour de taille : 67cm
-* Tour de boobies : 83cm
-* Tour de poitrine : 80cm
+* Tour de taille : 67cm 67
+* Tour de boobies : 83cm 84
+* Tour de poitrine : 80cm 78,5
 * 85B
