@@ -35,7 +35,7 @@
 - [ ] Faire les affichettes
 - [ ] Louer le camion
 - [ ] Louer les tireuses
-- [ ] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, )
+- [ ] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/)
 
 # Infos en vrac
 ## Horaires de la journée
