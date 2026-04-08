@@ -46,3 +46,6 @@
 - 18h -> Fin séance photos -> Début cocktail
 - 19h30 -> Début repas
 - 21h30 -> Fin repas -> Ouverture du bal
+
+DJ présent de 20h à 3h
+Photographes de 14h30 à 
