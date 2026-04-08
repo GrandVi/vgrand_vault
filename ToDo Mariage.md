@@ -15,7 +15,7 @@
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
 - [x] Prévoir les cocktails pour le soir et les quantités associées
-- [ ] Trouver un prof de danse
+- [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
 - [ ] Faire un point avec les photographes
 - [x] Finir les achats pour la déco : 
@@ -35,4 +35,14 @@
 - [ ] Faire les affichettes
 - [ ] Louer le camion
 - [ ] Louer les tireuses
+- [ ] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
 
+# Infos en vrac
+## Horaires de la journée
+* 14h30 -> Séance photos Ju + Vi <3
+- 15h30 -> Accueil des gens
+- 16h -> Début de la cérémonie
+- 17h15 -> Fin de la cérémonie -> Début séance photos + raffraichissements (softs)
+- 18h -> Fin séance photos -> Début cocktail
+- 19h30 -> Début repas
+- 21h30 -> Fin repas -> Ouverture du bal
