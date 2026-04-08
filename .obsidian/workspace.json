@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "df8891d8b3f3fb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sans titre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre"
+            }
+          },
+          {
             "id": "6445a26f9b2e04f2",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Guide des tailles - Sport"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,13 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d146f7dacfb4fa",
+  "active": "df8891d8b3f3fb37",
   "lastOpenFiles": [
+    "ToDo Mariage.md",
+    "Sans titre.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "Gestion copro.md",
     "Vie quotidienne/Guide des tailles.md",
     "Prépa brunch.md",
-    "ToDo Mariage.md",
     "Cocktails mariage.md",
     "ToDo.md",
     "Question copro.md",
@@ -237,7 +252,6 @@
     "Romans_Polars_Autres.../Liste de romans.md",
     "Romans_Polars_Autres.../Liste lecture.md",
     "Livres de développement personnel/Idées lecture développement personnel.md",
-    "Livres de sport/Liste livre sport.md",
     "Boulot/_resources",
     "Boulot",
     "DIY/_resources",
