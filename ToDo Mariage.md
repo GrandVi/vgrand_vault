@@ -59,6 +59,7 @@ Leslie de 15h à 9h le Dimanche
 - Maniac - Michael Sembello
 - I'm still standing - Elton John
 - Despecha - Rosalia
+- Boogie Wonderland - Earth, wind and fire
 - 
 
 ## Liste titres interdits
