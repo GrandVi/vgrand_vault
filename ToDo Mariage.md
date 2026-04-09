@@ -57,3 +57,7 @@ Leslie de 15h à 9h le Dimanche
 - J'irai où tu iras - Céline Dion
 - Firework - Katy Perry
 - Maniac - Michael Sembello
+- 
+
+## Liste titres interdits
+- Les sardines
