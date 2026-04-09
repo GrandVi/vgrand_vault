@@ -50,3 +50,6 @@
 DJ présent de 20h à 3h
 Photographes de 14h30 à 22h30
 Leslie de 15h à 9h le Dimanche
+
+## Liste titres indispensables
+- Suavemente - Elvis Crespo
