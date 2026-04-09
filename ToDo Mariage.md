@@ -61,6 +61,7 @@ Leslie de 15h à 9h le Dimanche
 - Despecha - Rosalia
 - Boogie Wonderland - Earth, wind and fire
 - Gone Gone Gone - David Guetta
+- Cold Heart - Elton John et Dua Lipa
 
 ## Liste titres interdits
 - Les sardines
