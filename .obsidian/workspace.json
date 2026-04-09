@@ -63,8 +63,7 @@
               "title": "Guide des tailles - Sport"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df8891d8b3f3fb37",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
-    "ToDo Mariage.md",
     "08_04_2026 Poème Juju.md",
+    "ToDo Mariage.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "Gestion copro.md",
     "Vie quotidienne/Guide des tailles.md",
