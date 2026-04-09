@@ -58,7 +58,6 @@ Leslie de 15h à 9h le Dimanche
 - Firework - Katy Perry
 - Maniac - Michael Sembello
 - I'm still standing - Elton John
-- Say so - Doja Cat
 - 
 
 ## Liste titres interdits
