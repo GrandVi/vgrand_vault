@@ -59,6 +59,7 @@ Entrée mariés :
 - Beyoncé - Right now
 - Love generation
 - Jerusalema
+- Les oies sauvages
 
 Entrée invités :
 - Style disco house
