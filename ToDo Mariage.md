@@ -61,6 +61,7 @@ Entrée mariés :
 - Jerusalema
 
 Entrée invités :
+- Style disco house -
 - 
 ## Liste titres indispensables
 - Suavemente - Elvis Crespo
