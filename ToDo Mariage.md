@@ -53,6 +53,11 @@ Leslie de 15h à 9h le Dimanche
 
 ## Entretien DJ
 - [ ] Horaire d'arrivée ?!
+
+Entrée mariés :
+- Black eyed peas - 
+- Beyoncé - Right now
+- 
 ## Liste titres indispensables
 - Suavemente - Elvis Crespo
 - Versace on the floor - Bruno Mars
