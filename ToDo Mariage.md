@@ -61,7 +61,8 @@ Entrée mariés :
 - Jerusalema
 
 Entrée invités :
-- Style disco house -
+- Style disco house
+- Afro house
 
 Arrivée gâteau :
 
