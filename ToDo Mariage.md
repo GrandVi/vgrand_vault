@@ -57,6 +57,10 @@ Leslie de 15h à 9h le Dimanche
 Entrée mariés :
 - Black eyed peas - 
 - Beyoncé - Right now
+- Love generation
+- Jerusalema
+
+Entrée invités :
 - 
 ## Liste titres indispensables
 - Suavemente - Elvis Crespo
