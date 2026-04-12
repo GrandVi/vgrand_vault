@@ -66,7 +66,8 @@ Entrée invités :
 - Afro house
 
 Arrivée gâteau :
-
+- Sarah per che ti amo
+- Autre chanson qui pète
 Au moins un jeu entre buffet et fromages
 ## Liste titres indispensables
 - Suavemente - Elvis Crespo
