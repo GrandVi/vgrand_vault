@@ -64,7 +64,8 @@ Entrée invités :
 - Style disco house -
 
 Arrivée gâteau :
-- 
+
+Au moins un jeu entre buffet et fromages
 ## Liste titres indispensables
 - Suavemente - Elvis Crespo
 - Versace on the floor - Bruno Mars
