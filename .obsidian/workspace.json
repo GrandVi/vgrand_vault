@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taille",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d146f7dacfb4fa",
+  "active": "cb465d3167191d72",
   "lastOpenFiles": [
     "Vie quotidienne/Guide des tailles.md",
     "Sport - Divers/Guide des tailles - Sport.md",
