@@ -1,12 +1,12 @@
 - [x] Valider avec DJ TED
-- [ ] Prévoir la soirée + les musiques du repas avec DJ TED
+- [x] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
 	- [ ] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
-- [ ] Définir précisément le déroulé de la journée
-	- [ ] 16h --> Cérémonie
-	- [ ] 18h --> Vin d'honneur
-	- [ ] 20h --> Repas
+- [x] Définir précisément le déroulé de la journée
+	- [x] 16h --> Cérémonie
+	- [x] 18h --> Vin d'honneur
+	- [x] 20h --> Repas
 - [ ] Définir les jeux :
 	- [ ] Passer voir à la ludothèque
 	- [ ] Molky
