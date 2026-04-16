@@ -43,6 +43,7 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [x] Gants
 - [x] Pantalon de rando
 - [ ] Frontale
+- [ ] Casquette
 
 ## 🚴 Affaires de vélo
 - [ ] Lunettes de soleil
