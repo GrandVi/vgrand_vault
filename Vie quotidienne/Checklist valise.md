@@ -21,7 +21,7 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 
 ## 👕 Habits
 - [x] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
-- [ ] Serviette
+- [x] Serviette
 - [x] T-shirts
 - [x] Pulls
 - [x] Caleçons
@@ -42,8 +42,8 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [ ] Tour de cou
 - [x] Gants
 - [x] Pantalon de rando
-- [ ] Frontale
-- [ ] Casquette
+- [x] Frontale
+- [x] Casquette
 
 ## 🚴 Affaires de vélo
 - [ ] Lunettes de soleil
