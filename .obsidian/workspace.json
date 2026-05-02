@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo Mariage.md",
+                "file": "Prépa brunch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo Mariage"
+              "title": "Prépa brunch"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "brunch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb465d3167191d72",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
+    "ToDo Mariage.md",
     "Vie quotidienne/Guide des tailles.md",
     "Sport - Divers/Guide des tailles - Sport.md",
-    "ToDo Mariage.md",
     "08_04_2026 Poème Juju.md",
     "Gestion copro.md",
     "Prépa brunch.md",
