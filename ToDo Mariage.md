@@ -2,7 +2,7 @@
 - [x] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
 - [ ] Faire un point déco et valider la mise en scène
-	- [ ] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
+	- [x] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
 - [x] Définir précisément le déroulé de la journée
 	- [x] 16h --> Cérémonie
 	- [x] 18h --> Vin d'honneur
@@ -17,7 +17,7 @@
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
-- [ ] Faire un point avec les photographes
+- [x] Faire un point avec les photographes
 - [x] Finir les achats pour la déco : 
 	- [x] Bougies
 	- [x] Photophores
@@ -34,8 +34,8 @@
 	- [ ] Fleuriste
 - [ ] Faire les affichettes
 - [x] Louer le camion
-- [ ] Louer les tireuses
-- [ ] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
+- [ ] Louer les tireuses (3x30)
+- [x] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
 
 # Infos en vrac
 ## Horaires de la journée
@@ -52,7 +52,7 @@ Photographes de 14h30 à 22h30
 Leslie de 15h à 9h le Dimanche
 
 ## Entretien DJ
-- [ ] Horaire d'arrivée ?!
+- [x] Horaire d'arrivée ?!
 
 Entrée mariés :
 - Black eyed peas - I gotta feeling
