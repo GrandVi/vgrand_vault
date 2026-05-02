@@ -8,7 +8,7 @@
 	- [x] 18h --> Vin d'honneur
 	- [x] 20h --> Repas
 - [ ] Définir les jeux :
-	- [ ] Passer voir à la ludothèque
+	- [x] Passer voir à la ludothèque
 	- [ ] Molky
 	- [ ] Beer pong
 	- [ ] Billard à rebonds
@@ -32,11 +32,10 @@
 	- [ ] Photographes
 	- [ ] DJ
 	- [ ] Fleuriste
-- [ ] Faire les affichettes
+- [x] Faire les affichettes
 - [x] Louer le camion
 - [ ] Louer les tireuses
-- [ ] Appeler les 
-- [ ] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
+- [ ] Appeler la boulangerie de Chindrieux (40 baguettes + 20 croissants, 30 pains au chocolat et 10 pains aux raisins)
 
 # Infos en vrac
 ## Horaires de la journée
