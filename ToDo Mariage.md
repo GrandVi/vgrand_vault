@@ -1,8 +1,8 @@
 - [x] Valider avec DJ TED
 - [x] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
-- [ ] Faire un point déco et valider la mise en scène
-	- [ ] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
+- [ ] Faire un point déco et valider la mise en scène de la zone de la cérémonie
+	- [x] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
 - [x] Définir précisément le déroulé de la journée
 	- [x] 16h --> Cérémonie
 	- [x] 18h --> Vin d'honneur
@@ -47,44 +47,10 @@
 - 19h30 -> Début repas
 - 21h30 -> Fin repas -> Ouverture du bal
 
-DJ présent de 20h à 3h
+DJ présent de 19h à 3h
 Photographes de 14h30 à 22h30
 Leslie de 15h à 9h le Dimanche
 
-## Entretien DJ
-- [ ] Horaire d'arrivée ?!
-
-Entrée mariés :
-- Black eyed peas - I gotta feeling
-- Beyoncé - Right now
-- Love generation
-- Jerusalema
-- Les oies sauvages
-
-Entrée invités :
-- Style disco house
-- Afro house
-
-Arrivée gâteau :
-- Sarah per che ti amo
-- Autre chanson qui pète
-Au moins un jeu entre buffet et fromages
-## Liste titres indispensables
-- Suavemente - Elvis Crespo
-- Versace on the floor - Bruno Mars
-- J'irai où tu iras - Céline Dion
-- Firework - Katy Perry
-- Maniac - Michael Sembello
-- I'm still standing - Elton John
-- Despecha - Rosalia
-- Boogie Wonderland - Earth, wind and fire
-- Gone Gone Gone - David Guetta
-- Cold Heart - Elton John et Dua Lipa
-- Calvin Harris - Feel so close
-
-## Liste titres interdits
-- Sound of legend
-- Franky Vincent
 
 ## Affichettes
 
