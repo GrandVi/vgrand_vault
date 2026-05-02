@@ -480,3 +480,9 @@ Si tu veux, prochaine étape possible :
 📦 Plan d’installation du buffet pour 85 personnes
 
 On est sur un brunch très propre, très maîtrisé, très wedding smart là 😌✨
+
+
+On va remplacer : 
+- La quasi-totalité des cakes sucrés pas des viennoiseries + des yaourts et du granola (on va garder juste du cake au citron vegan)
+- Les grosses miches par de la baguette : ~ 40 baguettes
+- On va garder uniquement 1 salade de pâtes et 1 taboulé

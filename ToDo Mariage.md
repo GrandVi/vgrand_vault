@@ -8,7 +8,7 @@
 	- [x] 18h --> Vin d'honneur
 	- [x] 20h --> Repas
 - [ ] Définir les jeux :
-	- [ ] Passer voir à la ludothèque
+	- [x] Passer voir à la ludothèque
 	- [ ] Molky
 	- [ ] Beer pong
 	- [ ] Billard à rebonds
@@ -32,7 +32,7 @@
 	- [ ] Photographes
 	- [ ] DJ
 	- [ ] Fleuriste
-- [ ] Faire les affichettes
+- [x] Faire les affichettes
 - [x] Louer le camion
 - [ ] Louer les tireuses (3x30)
 - [x] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
@@ -47,7 +47,7 @@
 - 19h30 -> Début repas
 - 21h30 -> Fin repas -> Ouverture du bal
 
-DJ présent de 20h à 3h
+DJ présent de 19h à 3h
 Photographes de 14h30 à 22h30
 Leslie de 15h à 9h le Dimanche
 
