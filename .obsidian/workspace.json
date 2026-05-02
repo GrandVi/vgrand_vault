@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cocktails mariage.md",
+                "file": "ToDo Mariage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cocktails mariage"
+              "title": "ToDo Mariage"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Guide des tailles"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brunch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,15 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d146f7dacfb4fa",
+  "active": "6445a26f9b2e04f2",
   "lastOpenFiles": [
+    "Cocktails mariage.md",
+    "Prépa brunch.md",
     "ToDo Mariage.md",
     "Vie quotidienne/Guide des tailles.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "08_04_2026 Poème Juju.md",
     "Gestion copro.md",
-    "Prépa brunch.md",
-    "Cocktails mariage.md",
     "ToDo.md",
     "Question copro.md",
     "Vie quotidienne/Checklist valise.md",
