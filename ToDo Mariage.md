@@ -34,7 +34,7 @@
 	- [ ] Fleuriste
 - [x] Faire les affichettes
 - [x] Louer le camion
-- [ ] Louer les tireuses (3x30)
+- [x] Louer les tireuses (3x30)
 - [x] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
 
 # Infos en vrac
