@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo Mariage.md",
-                "mode": "source",
+                "file": "Vie quotidienne/Checklist valise.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo Mariage"
+              "title": "Checklist valise"
             }
           }
         ]
@@ -154,12 +154,12 @@
   },
   "active": "c3560c142572cee7",
   "lastOpenFiles": [
+    "ToDo Mariage.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "Vie quotidienne/Checklist valise.md",
     "Sport - Divers/Checklist ultra vélo.md",
     "Vie quotidienne/Guide des tailles.md",
     "SAG Scor 2030.md",
-    "ToDo Mariage.md",
     "Idées cadeaux perso/Liste cadeaux.md",
     "Gestion copro.md",
     "Question copro.md",
