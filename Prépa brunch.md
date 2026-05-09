@@ -122,10 +122,9 @@ Tu as raison de viser 4 salés minimum. Pour 85 personnes, ça donne du choix vi
 
 🌱 Végétariens
 Tomates séchées / feta
-Courgette / chèvre ou Comté
+Courgette / Beufort
 🌿 Vegans
-Olives / tomates séchées / herbes
-Légumes grillés (poivron / courgette / oignon)
+Olives / Poivrons grillés / Oignons / herbes
 
 Les cakes vegans sont très faciles avec lait végétal + huile d’olive + levure chimique.
 Franchement, personne ne verra la différence.
