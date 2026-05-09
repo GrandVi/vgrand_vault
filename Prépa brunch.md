@@ -502,3 +502,6 @@ Niveau quantités :
 - 4 kg houmous
 - 12 grandes brioches
 - 40 baguettes tradition
+
+- Courgette / Beaufort
+- Olives / Poivrons grillés / Oignons / herbes
