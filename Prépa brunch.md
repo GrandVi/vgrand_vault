@@ -494,11 +494,12 @@ On conserve :
 
 Niveau quantités :
 - 8 cakes salés
-- 7–8 cakes sucrés
+- 70 viennoiseries
+- 20 yaourts végé + 20 yaourts normaux + du granola
 - 5 kg pâtes
 - 3 kg semoule
 - 3 kg lentilles
-- 12 kg fruits
+- 12 kg fruits pour salade
 - 4 kg houmous
-- 12–14 brioches
-- 10–12 kg pain
+- 12 grandes brioches
+- 40 baguettes tradition
