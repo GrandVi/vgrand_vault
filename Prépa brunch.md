@@ -492,5 +492,13 @@ On conserve :
 - Salade de fruits
 - Grosses brioches
 
-Niveau quantités en salé :
-- 
+Niveau quantités :
+- 8 cakes salés
+- 7–8 cakes sucrés
+- 5 kg pâtes
+- 3 kg semoule
+- 3 kg lentilles
+- 12 kg fruits
+- 4 kg houmous
+- 12–14 brioches
+- 10–12 kg pain
