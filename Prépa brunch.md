@@ -496,9 +496,8 @@ Niveau quantités :
 - 8 cakes salés
 - 70 viennoiseries
 - 20 yaourts végé + 20 yaourts normaux + du granola
-- 5 kg pâtes
-- 3 kg semoule
-- 3 kg lentilles
+- X kg pâtes
+- X kg semoule
 - 12 kg fruits pour salade
 - 4 kg houmous
 - 12 grandes brioches
