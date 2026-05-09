@@ -63,8 +63,7 @@
               "title": "Guide des tailles"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6445a26f9b2e04f2",
+  "active": "a3d146f7dacfb4fa",
   "lastOpenFiles": [
-    "Prépa brunch.md",
     "ToDo Mariage.md",
+    "Prépa brunch.md",
     "SAG Scor 2030.md",
     "Cocktails mariage.md",
     "Vie quotidienne/Guide des tailles.md",
