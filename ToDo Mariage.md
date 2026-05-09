@@ -14,6 +14,9 @@
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
+- [ ] Réserver à la boulangerie : 
+	- [ ] 40 baguettes
+	- [ ] 
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
