@@ -1,3 +1,3 @@
 Justine
-Menton
+Menthon
 Belle-île
