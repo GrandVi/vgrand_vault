@@ -7,6 +7,5 @@ Tours de vélo autour de la Ste Victoire + balades du Samedi matin avec le march
 Premier bivouac au refuge du Paradis
 Découverte d'Annecy
 Arrivée de noufnouf
-Premier tour en cariole av
-Naissance Gabi ?!
-Autre moment avec Gabi chot
+Premier tour en cariole avec Gabi
+
