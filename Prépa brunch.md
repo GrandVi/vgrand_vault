@@ -504,4 +504,4 @@ Niveau quantités :
 - 40 baguettes tradition
 
 - Courgette / Beaufort
-- Olives / Poivrons grillés / Oignons / herbes
+- Olives / Poivrons grillés / herbes
