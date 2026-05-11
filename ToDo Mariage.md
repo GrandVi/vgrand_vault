@@ -14,9 +14,9 @@
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [ ] Prévoir les menus du brunch
-- [ ] Réserver à la boulangerie : 
-	- [ ] 35 baguettes
-	- [ ] 20 croissants, 40 pains au chocolat, 10 pains aux raisins
+- [x] Réserver à la boulangerie : 
+	- [x] 35 baguettes
+	- [x] 20 croissants, 40 pains au chocolat, 10 pains aux raisins
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
