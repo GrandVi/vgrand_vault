@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63ece28189345c14",
+  "active": "6445a26f9b2e04f2",
   "lastOpenFiles": [
     "Discours mariage.md",
     "Prépa brunch.md",
