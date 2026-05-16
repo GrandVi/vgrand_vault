@@ -10,7 +10,7 @@ Arrivée de noufnouf
 Premier tour en cariole avec Gabi
 
 Justine, j'ai décidé pour ce discours de revenir sur quelques moments marquants de notre relation, qui sont à la fois des bons souvenirs, des moments que j'aime à me rappeler mais qui illustrent également tout ce que tu m'apportes et pourquoi je suis là aujourd'hui pour t'épouser. Woh, ça fait tout drôle de dire ça... Même l'écrire d'ailleurs 
-J'ai choisi des moments un peu variés, pas uniquement des moments exceptionnels 
+J'ai choisi des moments un peu variés, pas uniquement des moments de vacance parce qu'il me tient à cœur de montrer que c'est bien jour après jour que nou
 1) Menthon
 2) Belle-île
 3) Retour en voiture des Pyrénées
