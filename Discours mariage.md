@@ -52,17 +52,3 @@ Et finalement, cette anecdote dit tout. Elle dit que tu es une personne exceptio
 Justine, je voudrais te remercier. Pour tout ce que tu m'as appris, tout ce que tu m'apportes chaque jour, et tous les souvenirs qu'on a déjà construits. Et surtout, aujourd'hui, je voudrais te dire que je suis impatient de la suite. Impatient des prochains trajets en voiture, des prochains bivouacs, des prochains noufnoufs, et de tous les moments qu'on ne soupçonne même pas encore.
 
 Je t'aime.
-
----
-
-## Quelques notes sur les choix
-
-J'ai déplacé ton "woh, ça fait tout drôle" en ouverture parce qu'il fait une attaque chaleureuse, vraie, et qu'il évite l'introduction trop méta. Du coup il faut le retirer du paragraphe d'origine.
-
-Les titres en gras (**Menton.**, etc.) sont là pour t'aider à lire — à toi de voir si tu les énonces vraiment ou si tu marques juste une pause entre chaque partie.
-
-Le point 3 garde un trou volontaire : c'est à toi d'y mettre _ton_ détail. C'est le seul moment où le discours peut encore prendre en intensité, et il faut que ça vienne de toi, pas de moi.
-
-La conclusion reprend les trois éléments de tes anecdotes (trajets, bivouacs, Marley) pour boucler — ça donne de la circularité sans être lourd.
-
-Durée estimée : toujours autour de 5-6 minutes, peut-être un peu moins si tu lis bien rythmé. C'est parfait.
