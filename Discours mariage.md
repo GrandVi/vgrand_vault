@@ -25,7 +25,7 @@ Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses
 ---
 Justine,
 
-Il y a quelques jours, je me suis assis pour écrire ce discours. Oui je sais, je nétais pas en avance. J'ai jamais été très à l'aise à l'idée d'exprimer ce que je ressens — encore moins devant un public. Finalement, à ce moment, j'ai réalisé que nous allions nous marier, pour de vrai.
+Il y a quelques jours, je me suis assis pour écrire ce discours. Oui je sais, je n'étais pas en avance. Je n'ai jamais été très à l'aise à l'idée d'exprimer ce que je ressens — encore moins devant un public. Finalement, à ce moment, j'ai réalisé que nous allions nous marier, pour de vrai.
 
 
 Alors plutôt que de te dire en vrac tout ce que je ressens, j'ai préféré te raconter quatre moments. Quatre souvenirs que j'aime, et qui disent, mieux que des grands mots, pourquoi je suis là aujourd'hui.
@@ -40,7 +40,7 @@ Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panis
 
 **Le refuge du Paradis.**
 
-Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagé. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça.
+Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge lors du repas du midi, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagés. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça.
 
 **Marley.**
 
@@ -51,6 +51,6 @@ Sur le moment, je n'avais pas vraiment réalisé. Mais c'est vrai. À partir de 
 Et finalement, cette anecdote dit tout. Elle dit que tu es une personne exceptionnelle, d'une sensibilité et d'une empathie rares. Elle dit que ce qu'on vit ensemble — les rires, les discussions, et toutes les autres activités — c'est précieux. Et elle dit que tous les deux, on se grandit, on fait des choses qu'on n'aurait pas faites seuls, on vit plus intensément, on vit mieux.
 
 
-Justine, je voudrais te remercier. Pour tout ce que tu m'as appris, tout ce que tu m'apportes au quotidien, et tous les souvenirs qu'on a déjà construits. Et surtout, aujourd'hui, je voudrais te dire que je suis impatient de la suite. Impatient des prochains trajets en voiture, des prochains bivouacs, des prochains instants en famille, et surtout tous les moments qu'on ne soupçonne même pas encore.
+Justine, je voudrais te remercier. Pour tout ce que tu m'as appris, tout ce que tu m'apportes au quotidien, et tous les souvenirs qu'on a déjà construits. Et surtout, aujourd'hui, je voudrais te dire que je suis impatient de la suite. Impatient des prochains trajets en voiture, des prochains bivouacs, des prochains instants en famille, et de tous les moments qu'on ne soupçonne même pas encore.
 
 Je t'aime.
