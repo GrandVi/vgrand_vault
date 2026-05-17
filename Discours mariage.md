@@ -47,7 +47,7 @@ Je me souviens de ses premiers aboiements quand on est sortis de la voiture, de 
 
 Sur le moment, je n'avais pas vraiment réalisé. Mais c'est vrai. À partir de ce jour-là, on avait la responsabilité commune de ce gros noufnouf. Et tu as tenu à me le rappeler, jour après jour : que sa vie dépendait de nous, qu'il fallait faire de notre mieux, parce qu'il n'avait que nous, et que nous seuls pouvions lui ouvrir le monde.
 
-Et finalement, cette anecdote dit tout. Elle dit que tu es une personne exceptionnelle, d'une sensibilité et d'une empathie rares. Elle dit que ce qu'on vit ensemble — les rires, les débats, les échanges — c'est précieux. Et elle dit que tous les deux, on se grandit, on fait des choses qu'on n'aurait pas faites seuls, on vit plus, on vit mieux.
+Et finalement, cette anecdote dit tout. Elle dit que tu es une personne exceptionnelle, d'une sensibilité et d'une empathie rares. Elle dit que ce qu'on vit ensemble — les rires, les discussions, et toutes les autres activités — c'est précieux. Et elle dit que tous les deux, on se grandit, on fait des choses qu'on n'aurait pas faites seuls, on vit plus, on vit mieux.
 
 Justine, je voudrais te remercier. Pour tout ce que tu m'as appris, tout ce que tu m'apportes chaque jour, et tous les souvenirs qu'on a déjà construits. Et surtout, aujourd'hui, je voudrais te dire que je suis impatient de la suite. Impatient des prochains trajets en voiture, des prochains bivouacs, des prochains noufnoufs, et de tous les moments qu'on ne soupçonne même pas encore.
 
