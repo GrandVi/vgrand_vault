@@ -20,3 +20,49 @@ J'ai choisi 4 instants de vie assez différents, qui témoignent tour à tour de
 	3) Être tous les deux nous grandit, nous permet de faire de nouvelles choses, de vivre plus, de vivre mieux.
 
 Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses que tu m'as appris, tout ce que tu m'apportes au quotidien et tous les beaux souvenirs que nous avons déjà tous les deux. Et maintenant, j'aimerais surtout te dire que je suis ravi de commencer cette nouvelle aventure. Je t’aime.
+
+
+---
+Justine,
+
+Il y a quelques jours, je me suis assis pour écrire ce discours, et je me suis dit : woh, ça fait tout drôle. Pas l'écriture — l'idée que dans quelques heures, je vais t'épouser.
+
+Alors plutôt que de te dire en vrac tout ce que je ressens, j'ai préféré te raconter quatre moments. Quatre souvenirs que j'aime, et qui disent, mieux que des grands mots, pourquoi je suis là aujourd'hui.
+
+**Menton.**
+
+C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les deux à Menton, et je me souviens d'une révélation. Ça ne faisait que quelques jours qu'on était ensemble, et je réalisais que tu devinais mes pensées, que tu anticipais mes envies. En fait, tu ne lisais pas dans mes pensées — tu étais simplement attentionnée, attentive aux moindres détails. C'est ton empathie, le soin que tu prends des personnes qui te sont chères, qui m'ont sauté aux yeux ce jour-là. C'est une qualité qui te caractérise profondément, et qui fait de toi quelqu'un d'exceptionnel.
+
+**Le retour des Pyrénées.**
+
+Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. Tout ça pour dire : j'adore discuter avec toi, débattre longuement, et rire un peu — souvent — entre deux.
+
+**Le refuge du Paradis.**
+
+Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, et pourtant hors du temps. _[Ici, glisse un détail concret : le lever du soleil, le silence du refuge, ton sac trop lourd, peu importe — une image, une seule, qui ancrera le souvenir pour Justine et pour les invités.]_ Ça fait partie de ces choses qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça.
+
+**Marley.**
+
+Je me souviens de ses premiers aboiements quand on est sortis de la voiture, de la première fois où on l'a tenu en laisse, et de cette phrase que tu m'as dite en repartant avec ce gros chien dans le coffre : « C'est fou, on échange quelques mots, on passe quelques heures, et voilà, on repart avec la responsabilité d'un être vivant. »
+
+Sur le moment, je n'avais pas vraiment réalisé. Mais c'est vrai. À partir de ce jour-là, on avait la responsabilité commune de ce gros noufnouf. Et tu as tenu à me le rappeler, jour après jour : que sa vie dépendait de nous, qu'il fallait faire de notre mieux, parce qu'il n'avait que nous, et que nous seuls pouvions lui ouvrir le monde.
+
+Et finalement, cette anecdote dit tout. Elle dit que tu es une personne exceptionnelle, d'une sensibilité et d'une empathie rares. Elle dit que ce qu'on vit ensemble — les rires, les débats, les échanges — c'est précieux. Et elle dit que tous les deux, on se grandit, on fait des choses qu'on n'aurait pas faites seuls, on vit plus, on vit mieux.
+
+Justine, je voudrais te remercier. Pour tout ce que tu m'as appris, tout ce que tu m'apportes chaque jour, et tous les souvenirs qu'on a déjà construits. Et surtout, aujourd'hui, je voudrais te dire que je suis impatient de la suite. Impatient des prochains trajets en voiture, des prochains bivouacs, des prochains noufnoufs, et de tous les moments qu'on ne soupçonne même pas encore.
+
+Je t'aime.
+
+---
+
+## Quelques notes sur les choix
+
+J'ai déplacé ton "woh, ça fait tout drôle" en ouverture parce qu'il fait une attaque chaleureuse, vraie, et qu'il évite l'introduction trop méta. Du coup il faut le retirer du paragraphe d'origine.
+
+Les titres en gras (**Menton.**, etc.) sont là pour t'aider à lire — à toi de voir si tu les énonces vraiment ou si tu marques juste une pause entre chaque partie.
+
+Le point 3 garde un trou volontaire : c'est à toi d'y mettre _ton_ détail. C'est le seul moment où le discours peut encore prendre en intensité, et il faut que ça vienne de toi, pas de moi.
+
+La conclusion reprend les trois éléments de tes anecdotes (trajets, bivouacs, Marley) pour boucler — ça donne de la circularité sans être lourd.
+
+Durée estimée : toujours autour de 5-6 minutes, peut-être un peu moins si tu lis bien rythmé. C'est parfait.
