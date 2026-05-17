@@ -11,7 +11,7 @@ Premier tour en cariole avec Gabi
 
 Justine, j'ai décidé pour ce discours de revenir sur quelques moments marquants de notre relation, qui sont à la fois des bons souvenirs, des moments que j'aime à me rappeler mais qui illustrent également tout ce que tu m'apportes et pourquoi je suis là aujourd'hui pour t'épouser. Woh, ça fait tout drôle de dire ça... Même l'écrire d'ailleurs 
 J'ai choisi des moments un peu variés, pas uniquement des moments de vacance parce qu'il me tient à cœur de montrer que c'est bien dans le quotidien que je suis heureux avec toi et que jour après jour nous évoluons.
-1) Menthon : Je me souviens, lors de ta première visite à Bar-sur-Loup, d'une journée passée tous les deux à Menton. Et je me souviens d'une révélation pour moi : cela ne faisait que quelques jours que nous étions ensemble et je réalisais alors que tu devinais mes pensées et anticipais mes souhaits. J'ai été frappé par ton empathie et par le soin que tu prends des personne qui te sont cher. C'est une qualit
+1) Menthon : Je me souviens, lors de ta première visite à Bar-sur-Loup, d'une journée passée tous les deux à Menton. Et je me souviens d'une révélation pour moi : cela ne faisait que quelques jours que nous étions ensemble et je réalisais alors que tu devinais mes pensées et anticipais mes souhaits. En fait, tu ne savais pas lire dans mes pensées, tu étais simplement attentionnée et tu faisais attention aux moindres détails. C'est donc  ton empathie et par le soin que tu prends des personne qui te sont cher. C'est une qualité qui te caractérise profondément et qui fait de toi quelqu'un d'exceptionnel
 2) Belle-île
 3) Retour en voiture des Pyrénées
 4) Bivouac au refuge du Paradis
