@@ -17,6 +17,7 @@ J'ai choisi 4 instants de vie assez différents, qui témoignent tour à tour de
 4) Enfin, j'ai choisi de raconter la rencontre avec Marley. Je me souviens de ses premiers aboiements quand on est sortis de la voiture, de la première fois où on l'a tenu en laisse, et de cette réflexion que tu m'as fait lorsque l'on est partis avec ce gros chien dans le coffre : "C'est fou, on échange quelques mots, on passe quelques heures, et voilà on repart avec la responsabilité d'un être vivant." Je n'avais alors pas forcément réalisé ou conscientisé, mais c'est vrai. A partir de ce jour là, nous avions la responsabilité commune de ce gros noufnouf. Et tu as tâché de me rappeler, jour après jour, que sa vie dépendait de nous et qu'il fallait faire de notre mieux car il n'avait que nous, et que seul nous pouvions lui permettre un accès au monde. Finalement, cette anecdote résume à elle-seule les trois points précédents que je voulais mettre en lumière aujourd'hui :
 	1) Tu es une personne exceptionnelle avec qui il fait bon vivre et tu te distingues par une sensibilité et une empathie hors du commun
 	2) Nous vivons des moments incroyables tous les deux, faits de rires, de débats, d'échanges
-	3) Être t
+	3) Être tous les deux nous grandit, nous permet de faire de nouvelles choses, de vivre plus, de vivre mieux.
 
+Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses que tu m'as appris, tout ce que tu m'apportes au quotidien et o
 À toi, Justine, la personne avec qui je suis ravi de commencer cette nouvelle aventure. Je t’aime, et je suis si heureux de partager ce moment avec toi et avec vous tous."
