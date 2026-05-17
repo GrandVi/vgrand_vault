@@ -25,7 +25,7 @@ Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses
 ---
 Justine,
 
-Il y a quelques jours, je me suis assis pour écrire ce discours, et je me suis dit : woh, ça fait tout drôle. Pas l'écriture — l'idée que dans quelques heures, je vais t'épouser.
+Il y a quelques jours, je me suis assis pour écrire ce discours. Oui je sais, j'étais pas en avance, j'ai jamais été très à l'aise à l'idée d'exprimer ce que je ressens et encore moins devant un public. Finalement, à ce moment, j, je vais t'épouser.
 
 Alors plutôt que de te dire en vrac tout ce que je ressens, j'ai préféré te raconter quatre moments. Quatre souvenirs que j'aime, et qui disent, mieux que des grands mots, pourquoi je suis là aujourd'hui.
 
