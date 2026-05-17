@@ -9,24 +9,11 @@ Découverte d'Annecy
 Arrivée de noufnouf
 Premier tour en cariole avec Gabi
 
-Justine, j'ai décidé pour ce discours de revenir sur quelques moments marquants de notre relation, qui sont à la fois des bons souvenirs, des moments que j'aime à me rappeler mais qui illustrent également tout ce que tu m'apportes et pourquoi je suis là aujourd'hui pour t'épouser. Woh, ça fait tout drôle de dire ça... Même l'écrire d'ailleurs 
-J'ai choisi 4 instants de vie assez différents, qui témoignent tour à tour de tes qualités, de ce que nous apporte notre relation ou encore de tous ces moments de bonheur intense qui n'auraient pas vu le jour sans toi.
-1) Menthon : Je me souviens, lors de ta première visite à Bar-sur-Loup, d'une journée passée tous les deux à Menton. Et je me souviens d'une révélation pour moi : cela ne faisait que quelques jours que nous étions ensemble et je réalisais alors que tu devinais mes pensées et anticipais mes souhaits. En fait, tu ne savais pas lire dans mes pensées, tu étais simplement attentionnée et tu faisais attention aux moindres détails. C'est donc  ton empathie et le soin que tu prends des personne qui te sont cher qui m'ont sauté aux yeux. C'est une qualité qui te caractérise profondément et qui fait de toi quelqu'un d'exceptionnel
-2) Retour en voiture des Pyrénées : Le deuxième moment que je tiens à nous rappeler est le trajet retour de nos vacances dans les Pyrénées. Nous avions quelques longues heures de route pour aller de Luz Saint Sauveur jusqu'au Bois d'Oingt (ou à Panissières, on est pas trop d'accord sur la destination). Je me souviens alors de discussions sans fin, à propos de sujets divers et variés, mais aussi de moments très drôles. Je n'oublierai jamais ce montage photo où l'on avait collé le visage de l'un sur le corps de l'autre et que ça marchait un peu trop bien. ==Tout ça pour souligner que j'adore discuter avec toi, débattre longuement et rire un peu de temps en temps aussi.==
-3) Bivouac au refuge du Paradis : Ensuite, il y a eu notre premier bivouac tous les deux, dans le Mercantour, au refuge du Paradis. C'était un week-end comme tant d'autres, et pourtant hors du temps. Ca fait partie des activités que l'on a découvert ensemble et c'est une des nombreuses choses que l'on n'aurait peut être pas fait l'un sans l'autre, ou du moins peut être pas comme ça. 
-4) Enfin, j'ai choisi de raconter la rencontre avec Marley. Je me souviens de ses premiers aboiements quand on est sortis de la voiture, de la première fois où on l'a tenu en laisse, et de cette réflexion que tu m'as fait lorsque l'on est partis avec ce gros chien dans le coffre : "C'est fou, on échange quelques mots, on passe quelques heures, et voilà on repart avec la responsabilité d'un être vivant." Je n'avais alors pas forcément réalisé ou conscientisé, mais c'est vrai. A partir de ce jour là, nous avions la responsabilité commune de ce gros noufnouf. Et tu as tâché de me rappeler, jour après jour, que sa vie dépendait de nous et qu'il fallait faire de notre mieux car il n'avait que nous, et que seul nous pouvions lui permettre un accès au monde. Finalement, cette anecdote résume à elle-seule les trois points précédents que je voulais mettre en lumière aujourd'hui :
-	1) Tu es une personne exceptionnelle avec qui il fait bon vivre et tu te distingues par une sensibilité et une empathie hors du commun
-	2) Nous vivons des moments incroyables tous les deux, faits de rires, de débats, d'échanges
-	3) Être tous les deux nous grandit, nous permet de faire de nouvelles choses, de vivre plus, de vivre mieux.
-
-Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses que tu m'as appris, tout ce que tu m'apportes au quotidien et tous les beaux souvenirs que nous avons déjà tous les deux. Et maintenant, j'aimerais surtout te dire que je suis ravi de commencer cette nouvelle aventure. Je t’aime.
-
 
 ---
 Justine,
 
 Il y a quelques jours, je me suis assis pour écrire ce discours. Oui je sais, je n'étais pas en avance. Je n'ai jamais été très à l'aise à l'idée d'exprimer ce que je ressens — encore moins devant un public. Finalement, à ce moment, j'ai réalisé que nous allions nous marier, pour de vrai.
-
 
 Alors plutôt que de te dire en vrac tout ce que je ressens, j'ai préféré te raconter quatre moments. Quatre souvenirs que j'aime, et qui disent, mieux que des grands mots, pourquoi je suis là aujourd'hui.
 
@@ -36,7 +23,7 @@ C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les 
 
 **Le retour des Pyrénées.**
 
-Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. Tout ça pour dire : j'adore discuter avec toi, débattre longuement, et rire un peu — souvent — entre deux.
+Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où l'on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. J'ai encore la photo si ça intéresse quelqu'un. Tout ça pour dire : j'adore discuter avec toi, débattre longuement, et rire un peu — souvent — entre deux.
 
 **Le refuge du Paradis.**
 
