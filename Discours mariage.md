@@ -19,5 +19,4 @@ J'ai choisi 4 instants de vie assez différents, qui témoignent tour à tour de
 	2) Nous vivons des moments incroyables tous les deux, faits de rires, de débats, d'échanges
 	3) Être tous les deux nous grandit, nous permet de faire de nouvelles choses, de vivre plus, de vivre mieux.
 
-Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses que tu m'as appris, tout ce que tu m'apportes au quotidien et o
-À toi, Justine, la personne avec qui je suis ravi de commencer cette nouvelle aventure. Je t’aime, et je suis si heureux de partager ce moment avec toi et avec vous tous."
+Justine, j'aimerais conclure ce discours en te remerciant pour toutes les choses que tu m'as appris, tout ce que tu m'apportes au quotidien et tous les beaux souvenirs que nous avons déjà tous les deux. Et maintenant, j'aimerais surtout te dire que je suis ravi de commencer cette nouvelle aventure. Je t’aime.
