@@ -1,3 +1,3 @@
 # Vendredi
 - 8h30 : Récupération du camion de loc à Super U
-- 10h : 
+- 9h45 : Récupération de la vaisselle à Doussard
