@@ -13,6 +13,7 @@
 - 13h : Repas
 - 14h30 : Début de l'installation
 
+- [ ] Passer déposer chez la fleuriste les vases
 - [ ] Installer les 2 grandes tablées
 - [ ] Installer la vaisselle, les nappes, les bouteilles et les bougies (+ porte-cartes, les cartes et les affichettes)
 - [ ] Mettre en place les chaises pour la cérémonie ? (ou Samedi matin)
@@ -23,4 +24,6 @@
 - [ ] Accueillir les gens au camping (si besoin)
 
 
-# Samedo
+# Samedi
+- [ ] Finaliser la mise en place
+- [ ] Acciu
