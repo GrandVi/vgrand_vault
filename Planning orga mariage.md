@@ -1,7 +1,6 @@
 # Jeudi
-
 - [ ] Organiser le garage pour faciliter le chargement du camion
-- [ ] Passer à PromoCash pour acheter les boisson
+- [ ] Passer à PromoCash pour acheter les boissons
 
 # Vendredi
 - 8h30 : Récupération du camion de loc à Super U
@@ -11,4 +10,6 @@
 - 11h : Mariage civil
 - 12h : Départ vers Chindrieux
 - 13h : Repas
-- 14h
+- 14h30 : Début de l'installation
+
+- [ ] 
