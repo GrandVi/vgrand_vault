@@ -9,4 +9,6 @@
 - 10h15 : Chargement du camion
 - 10h45 : Départ direction la Mairie
 - 11h : Mariage civil
-- 
+- 12h : Départ vers Chindrieux
+- 13h : Repas
+- 14h
