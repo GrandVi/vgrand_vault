@@ -25,5 +25,9 @@
 
 
 # Samedi
-- [ ] Finaliser la mise en place
-- [ ] Acciu
+- [ ] Finaliser la mise en place dans la salle
+- [ ] Finaliser la mise en place du lieu de la cérémonie
+- [ ] Placer les différents espaces jeux (Molky, beer pong, ?)
+- [ ] Accueillir la fleuriste
+- [ ] Préparer la salade de fruits
+- [ ] 
