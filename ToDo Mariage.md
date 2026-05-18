@@ -1,7 +1,7 @@
 - [x] Valider avec DJ TED
 - [x] Prévoir la soirée + les musiques du repas avec DJ TED
 - [x] Passer voir la fleuriste pour valider le projet + budget fleurs
-- [ ] Faire un point déco et valider la mise en scène
+- [x] Faire un point déco et valider la mise en scène
 	- [x] il manque principalement les petites affichettes, à voir avec Vivi s'il aura vraiment le time ou pas
 - [x] Définir précisément le déroulé de la journée
 	- [x] 16h --> Cérémonie
@@ -9,11 +9,14 @@
 	- [x] 20h --> Repas
 - [ ] Définir les jeux :
 	- [x] Passer voir à la ludothèque
-	- [ ] Molky
-	- [ ] Beer pong
+	- [x] Molky
+	- [x] Beer pong
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
 - [x] Prévoir les menus du brunch
+- [x] Réserver à la boulangerie : 
+	- [x] 35 baguettes
+	- [x] 20 croissants, 40 pains au chocolat, 10 pains aux raisins
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
@@ -24,7 +27,7 @@
 	- [x] Sous-bougies
 	- [x] Fleurs pampa
 - [x] Trouver un moyen pour la garde de Gabi
-- [ ] Continuer la collection de bouteilles pour les fleurs
+- [x] Continuer la collection de bouteilles pour les fleurs
 - [x] Construire la palette pour accrocher les tasses
 - [ ] Réfléchir à des orgas de secours au cas où il pleuve averse
 - [ ] Reste à payer :

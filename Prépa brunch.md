@@ -122,10 +122,9 @@ Tu as raison de viser 4 salés minimum. Pour 85 personnes, ça donne du choix vi
 
 🌱 Végétariens
 Tomates séchées / feta
-Courgette / chèvre ou Comté
+Courgette / Beufort
 🌿 Vegans
-Olives / tomates séchées / herbes
-Légumes grillés (poivron / courgette / oignon)
+Olives / Poivrons grillés / Oignons / herbes
 
 Les cakes vegans sont très faciles avec lait végétal + huile d’olive + levure chimique.
 Franchement, personne ne verra la différence.
@@ -483,6 +482,26 @@ On est sur un brunch très propre, très maîtrisé, très wedding smart là �
 
 
 On va remplacer : 
-- La quasi-totalité des cakes sucrés pas des viennoiseries + des yaourts et du granola (on va garder juste du cake au citron vegan)
+- Les cakes sucrés par des viennoiseries (20 croissants, 40 pains au chocolat, 10 pains aux raisins) +  20 yaourts végé + 20 yaourts normaux + du granola
 - Les grosses miches par de la baguette : ~ 40 baguettes
 - On va garder uniquement 1 salade de pâtes et 1 taboulé
+- On garde 3 cakes salés
+
+On conserve :
+- Houmous
+- Salade de fruits
+- Grosses brioches
+
+Niveau quantités :
+- 8 cakes salés
+- 70 viennoiseries
+- 20 yaourts végé + 20 yaourts normaux + du granola
+- X kg pâtes
+- X kg semoule
+- 12 kg fruits pour salade
+- 4 kg houmous
+- 12 grandes brioches
+- 40 baguettes tradition
+
+- Courgette / Beaufort
+- Olives / Poivrons grillés / herbes
