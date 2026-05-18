@@ -13,7 +13,7 @@
 	- [ ] Beer pong
 	- [ ] Billard à rebonds
 	- [ ] Mikado géant
-- [ ] Prévoir les menus du brunch
+- [x] Prévoir les menus du brunch
 - [x] Prévoir les cocktails pour le soir et les quantités associées
 - [x] Trouver un prof de danse
 - [x] Prévoir les cocktails
@@ -36,6 +36,7 @@
 - [x] Louer le camion
 - [x] Louer les tireuses (3x30)
 - [x] Louer une petite enceinte et un micro pour la cérémonie (https://location-event-74.fr/location-enceinte-eclairage-pack/, https://location-sono-74.fr/location/location-sono-400w-40-personnes/, https://www.allosono.eu/)
+- [ ] 10 témoins + nous 2 + darons 6 + lodevois 4 + sœurs 4 -> Total de 30 personnes
 
 # Infos en vrac
 ## Horaires de la journée
