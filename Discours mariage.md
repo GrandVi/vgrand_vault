@@ -25,9 +25,11 @@ C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les 
 
 Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où l'on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. J'ai encore la photo si ça intéresse quelqu'un. Tout ça pour dire que : j'adore discuter avec toi, débattre longuement, et rire un peu — souvent — entre deux.
 
+AJOUTER QUELQUE CHOSE SUR CETTE ANECDOTE QUI SONNE UN PEU CREUX
+
 **Le refuge du Paradis.**
 
-Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres,, banal et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge lors du repas du midi, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagés. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça.
+Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, banal, et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge lors du repas du midi, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagés. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça. Et finalement, cela fait partie des choses qui comp
 
 **Marley.**
 
