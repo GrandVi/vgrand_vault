@@ -3,7 +3,7 @@
 - [ ] Passer à PromoCash pour acheter les boissons
 - [ ] Prévoir un peu les sacs de bouffe
 - [ ] Finaliser les valises
-- [ ] Appeler l'assur
+- [ ] Appeler l'assurance pour avoir une attestation responsabilité civile fête de famille du Vendredi 22 midi au Dimanche 24 16h pour u
 # Vendredi
 - 8h30 : Récupération du camion de loc à Super U
 - 9h45 : Récupération de la vaisselle à Doussard -> Redemander l'adresse
