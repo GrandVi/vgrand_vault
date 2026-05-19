@@ -23,9 +23,7 @@ C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les 
 
 **Le retour des Pyrénées.**
 
-Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où l'on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. J'ai encore la photo si ça intéresse quelqu'un. C'est une anecdote particulièrement anodine, banale, et pourtant, j'en garde un souvenir très précis. Et cela pour la simple et bonne raison que ta présence a transformé un moment banal voire ennuyeux en un moment Tout ça pour dire que : j'adore discuter avec toi, débattre longuement, et rire un peu — souvent — entre deux.
-
-AJOUTER QUELQUE CHOSE SUR CETTE ANECDOTE QUI SONNE UN PEU CREUX
+Quelques heures de route entre Luz-Saint-Sauveur et le Bois d'Oingt — ou Panissières, on n'est toujours pas d'accord sur la destination. Des discussions sans fin sur tout et n'importe quoi. Et puis ce montage photo où l'on avait collé le visage de l'un sur le corps de l'autre, et où ça marchait un peu trop bien. J'ai encore la photo si ça intéresse quelqu'un. C'est une anecdote particulièrement anodine, banale, et pourtant, j'en garde un souvenir très précis. Et cela pour la simple et bonne raison que ta présence a transformé un moment banal voire ennuyeux en un moment pleins de joie, de rires et d'amour.s
 
 **Le refuge du Paradis.**
 
