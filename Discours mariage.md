@@ -29,7 +29,7 @@ AJOUTER QUELQUE CHOSE SUR CETTE ANECDOTE QUI SONNE UN PEU CREUX
 
 **Le refuge du Paradis.**
 
-Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, banal, et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge lors du repas du midi, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagés. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça. Et finalement, cela fait partie des choses qui comp
+Notre premier bivouac tous les deux, dans le Mercantour. Un week-end comme tant d'autres, banal, et pourtant hors du temps. Je me souviens encore très bien des poules qui se baladaient au bord d'un refuge lors du repas du midi, des nombreux bouquetins et de cette arrivée tardive au refuge qui nous avait bien soulagés. Nous avions peut être un peu sous-estimé le poids des sacs avec tout l'équipement... Ça fait partie de ces activités qu'on a découvertes ensemble, et qu'on n'aurait sans doute pas faites l'un sans l'autre — ou en tout cas, pas comme ça. Et finalement, cela fait partie des choses qui comptent pour moi, qui constituent notre quotidien et qui nous conduisent à découvrir pleins de nouveaux univers.
 
 **Marley.**
 
