@@ -5,6 +5,7 @@
 - [ ] Finaliser les valises
 - [ ] Appeler l'assurance pour avoir une attestation responsabilité civile fête de famille du Vendredi 22 midi au Dimanche 24 16h pour un mariage à la maison des apôtres (26 Route de Châtillon à Chindrieux)
 - [x] Demander aux différents prestas leur horaire d'arrivée et envoyer leur contact + horaires à Léa
+- [x] Repassage
 
 # Vendredi
 - 8h30 : Récupération du camion de loc à Super U
