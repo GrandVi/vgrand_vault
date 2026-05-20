@@ -30,6 +30,8 @@
 - [ ] Finaliser la mise en place dans la salle
 - [ ] Finaliser la mise en place du lieu de la cérémonie
 - [ ] Placer les différents espaces jeux (Molky, beer pong, ?)
-- [ ] Accueillir la fleuriste
+- [ ] Accueillir les traiteurs 
+- [ ] Accueillir le DJ (11h)
+- [ ] Accueillir la fleuriste (11h30)
 - [ ] Préparer la salade de fruits
 - [ ] Accueillir les différents presta
