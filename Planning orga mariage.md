@@ -1,5 +1,5 @@
 # Jeudi
-- [ ] Cuisiner un chili végé
+- [x] Cuisiner un chili végé
 - [ ] Organiser le garage pour faciliter le chargement du camion
 - [ ] Passer à PromoCash pour acheter les boissons
 - [ ] Prévoir un peu les sacs de bouffe
