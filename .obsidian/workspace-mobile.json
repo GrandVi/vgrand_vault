@@ -35,7 +35,8 @@
               "title": "Planning orga mariage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,11 +167,11 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "c3560c142572cee7",
+  "active": "3d8d60d9fb059055",
   "lastOpenFiles": [
+    "Vie quotidienne/Checklist valise.md",
     "ToDo Mariage.md",
     "Planning orga mariage.md",
-    "Vie quotidienne/Checklist valise.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "Sport - Divers/Checklist ultra vélo.md",
     "Vie quotidienne/Guide des tailles.md",

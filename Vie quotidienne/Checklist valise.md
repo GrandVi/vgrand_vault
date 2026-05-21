@@ -4,18 +4,18 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 
 ---
 ## 👜 Affaires perso
-- [x] Porte-feuille
-- [ ] Papiers voiture
-- [x] Clefs (Bar sur Loup, BO, Voiture, ...)
+- [ ] Porte-feuille
+- [x] Papiers voiture
+- [ ] Clefs (Bar sur Loup, BO, Voiture, ...)
 - [x] Bullet-journal
 - [x] Trousse + Affaires BUJO
-- [x] Ordinateur
+- [ ] Ordinateur
 - [x] Téléphone
 - [x] Écouteurs
-- [x] Chargeurs (Ordi + Tel + Montre)
-- [x] Bouquins
+- [ ] Chargeurs (Ordi + Tel + Montre)
+- [ ] Bouquins
 - [x] Disque dur externe
-- [x] Lunettes de soleil
+- [ ] Lunettes de soleil
 - [x] Appareil photo
 - [x] Trépied
 
