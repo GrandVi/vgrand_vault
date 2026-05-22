@@ -19,9 +19,9 @@
 - 14h30 : Début de l'installation
 
 - [x] Passer déposer chez la fleuriste les vases
-- [ ] Installer les 2 grandes tablées
-- [ ] Installer la vaisselle, les nappes, les bouteilles et les bougies (+ porte-cartes, les cartes et les affichettes)
-- [ ] Mettre en place les chaises pour la cérémonie ? (ou Samedi matin)
+- [x] Installer les 2 grandes tablées
+- [x] Installer la vaisselle, les nappes, les bouteilles et les bougies (+ porte-cartes, les cartes et les affichettes)
+- [x] Mettre en place les chaises pour la cérémonie ? (ou Samedi matin)
 - [ ] Installer les caisses et la scéno de la cérémonie (a minima faire un montage à blanc sous la verrière qui sera décalé plus tard)
 - [ ] Préparer :
 	- [ ] Le taboulé
