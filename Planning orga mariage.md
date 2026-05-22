@@ -23,10 +23,10 @@
 - [x] Installer la vaisselle, les nappes, les bouteilles et les bougies (+ porte-cartes, les cartes et les affichettes)
 - [x] Mettre en place les chaises pour la cérémonie ? (ou Samedi matin)
 - [ ] Installer les caisses et la scéno de la cérémonie (a minima faire un montage à blanc sous la verrière qui sera décalé plus tard)
-- [ ] Préparer :
-	- [ ] Le taboulé
-	- [ ] Les salades de pâtes
-- [ ] Accueillir les gens au camping (si besoin)
+- [x] Préparer :
+	- [x] Le taboulé
+	- [x] Les salades de pâtes
+- [x] Accueillir les gens au camping (si besoin)
 
 # Samedi
 - [ ] Finaliser la mise en place dans la salle
@@ -36,4 +36,3 @@
 - [ ] Accueillir le DJ (11h)
 - [ ] Accueillir la fleuriste (11h30)
 - [ ] Préparer la salade de fruits
-- [ ] Accueillir les différents presta
