@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discours mariage.md",
+                "file": "ToDo Mariage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discours mariage"
+              "title": "ToDo Mariage"
             }
           }
         ],
@@ -169,6 +169,7 @@
   },
   "active": "3d8d60d9fb059055",
   "lastOpenFiles": [
+    "Discours mariage.md",
     "Planning orga mariage.md",
     "Vie quotidienne/Checklist valise.md",
     "ToDo Mariage.md",
@@ -199,7 +200,6 @@
     "Vie quotidienne",
     "Triathlon/Liste chaussures.md",
     "Triathlon/Conseils vidéos natation.md",
-    "Triathlon/Conseils coaching natation.md",
     "Triathlon",
     "Sport - Divers",
     "Romans_Polars_Autres...",
