@@ -19,7 +19,7 @@ Alors plutôt que de te dire en vrac tout ce que je ressens, j'ai préféré te 
 
 **Menton.**
 
-C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les deux à Menton, et je me souviens d'une révélation. Ça ne faisait que quelques jours qu'on était ensemble, et je réalisais que tu devinais mes pensées, que tu anticipais mes envies. En fait, tu ne lisais pas dans mes pensées — tu étais simplement attentionnée, attentive aux moindres détails. C'est ton empathie, le soin que tu prends des personnes qui te sont chères, qui m'ont sauté aux yeux ce jour-là. C'est une qualité qui te caractérise profondément, et qui fait de toi quelqu'un d'exceptionnel.
+C'était ta première visite à Bar-sur-Loup. On a passé une journée tous les deux à Menton, et je me souviens d'une révélation. Ça ne faisait que quelques jours qu'on était ensemble, et je réalisais que tu devinais mes pensées, que tu anticipais mes envies. En fait, tu ne lisais pas dans mes pensées — tu étais simplement attentionnée, attentive aux moindres détails. C'est ton empathie, le soin que tu prends des personnes qui te sont chères, qui m'ont sauté aux yeux ce jour-là. C'est une qualité qui te caractérise profondément, et qui fait de toi quelqu'un d 'exceptionnel.
 
 **Le retour des Pyrénées.**
 
