@@ -5,6 +5,7 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 
 ***Idées pour offrir***
 - Maki : carnet de lecture
+- Arthur : livre marionnette caster man Arthur Le triceratops 
 **Idées pour Noel/Anniversaire**
 - [ ] mortier
 - [ ] livre piments inferno peppers

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo Mariage.md",
+                "file": "Idées cadeaux perso/Liste cadeaux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo Mariage"
+              "title": "Liste cadeaux"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mariage",
+            "query": "Cadeau",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -169,10 +169,10 @@
   },
   "active": "3d8d60d9fb059055",
   "lastOpenFiles": [
+    "ToDo Mariage.md",
     "Discours mariage.md",
     "Planning orga mariage.md",
     "Vie quotidienne/Checklist valise.md",
-    "ToDo Mariage.md",
     "Sport - Divers/Guide des tailles - Sport.md",
     "Sport - Divers/Checklist ultra vélo.md",
     "Vie quotidienne/Guide des tailles.md",
