@@ -12,7 +12,7 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [x] Ordinateur
 - [x] Téléphone
 - [x] Écouteurs
-- [ ] Chargeurs (Ordi + Tel + Montre)
+- [x] Chargeurs (Ordi + Tel + Montre)
 - [x] Bouquins
 - [x] Disque dur externe
 - [x] Lunettes de soleil
