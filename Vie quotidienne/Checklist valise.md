@@ -39,10 +39,10 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [x] Camelbak (+ gourdes ?)
 - [x] Bâtons
 - [x] K-way
-- [x] Tour de cou
+- [ ] Tour de cou
 - [x] Gants
 - [x] Pantalon de rando
-- [x] Frontale
+- [ ] Frontale
 - [x] Casquette
 
 ## 🚴 Affaires de vélo
