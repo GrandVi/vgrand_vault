@@ -15,7 +15,8 @@ source: https://keep.google.com/u/0/#LIST/191SPGgKucE_fe53DomKnx7WnB6YtKOWcHLSBf
 
 
 - [ ] Bouquins (cf liste de lecture)
-- [ ] Sony ult wear
+- [x] Sony ult wear
+- [ ] Corkcicle shaker
 - [ ] Elite prism porte bidon (1 gauche, 1 droit)
 - [ ] Cuissard Albion Cycling + Veste Zoa Insulated + warmer
 - [ ] Cours menuiserie atelier loup blanc
