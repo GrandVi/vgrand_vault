@@ -12,15 +12,15 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 - [x] Ordinateur
 - [x] Téléphone
 - [x] Écouteurs
-- [ ] Chargeurs (Ordi + Tel + Montre)
-- [ ] Bouquins
-- [ ] Disque dur externe
-- [ ] Lunettes de soleil
+- [x] Chargeurs (Ordi + Tel + Montre)
+- [x] Bouquins
+- [x] Disque dur externe
+- [x] Lunettes de soleil
 - [x] Appareil photo
 - [x] Trépied
 
 ## 👕 Habits
-- [ ] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
+- [x] Affaires de toilette (Déo + Brosse à dent + Dentifrice + Cire + Gel douche)
 - [x] Serviette
 - [x] T-shirts
 - [x] Pulls
@@ -33,16 +33,16 @@ Petite checklist classique lorsque l'on rentre pour un WE au BO par exemple.
 
 ## 🏃 Affaires de running/rando
 - [ ] Chaussures (Running + Trail ?)
-- [ ] Montre + Cardio
+- [x] Montre + Cardio
 - [x] T-shirt + Short + Boxer + Chaussettes
 - [x] Pull de sport
 - [x] Camelbak (+ gourdes ?)
 - [x] Bâtons
 - [x] K-way
-- [ ] Tour de cou
+- [x] Tour de cou
 - [x] Gants
 - [x] Pantalon de rando
-- [ ] Frontale
+- [x] Frontale
 - [x] Casquette
 
 ## 🚴 Affaires de vélo
